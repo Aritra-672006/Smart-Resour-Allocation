@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚑 Smart Resource Allocation — Backend API
 
 Production-ready Node.js + Express + MongoDB backend for an AI-powered disaster/resource allocation system.
@@ -219,3 +220,6 @@ All errors follow this shape:
 | `ml_unreachable`      | —    | ML service connection refused             |
 | `ml_error`            | —    | ML returned non-2xx response              |
 | `internal_server_error`| 500 | Unexpected server error                   |
+=======
+# Smart-Resour-Allocation
+>>>>>>> 07cc5767d106e3e0fe62d921bdaf7362bd0cefcf
