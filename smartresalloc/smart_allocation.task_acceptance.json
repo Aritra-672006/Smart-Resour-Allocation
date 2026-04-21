@@ -1,0 +1,7 @@
+[{
+  "_id": "ObjectId",
+  "assignment_id": "ObjectId",
+  "volunteer_id": "ObjectId",
+  "accepted_at": "2026-04-17T10:00:00Z",
+  "status": "accepted"
+}]
