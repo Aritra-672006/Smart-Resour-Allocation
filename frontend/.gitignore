@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+node_modules
+dist
+.env
+.DS_Store
+*.local
+=======
+node_modules/
+.env
+>>>>>>> 11f7e5aa78ed6cfd483ad7867fa05de89e00a8c2

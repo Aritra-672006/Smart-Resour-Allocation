@@ -1,0 +1,100 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+
+  body {
+    @apply bg-slate-950 text-slate-100 font-body;
+    font-family: 'DM Sans', sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Syne', sans-serif;
+  }
+}
+
+@layer components {
+  .glass-card {
+    @apply bg-slate-800/50 backdrop-blur-sm border border-slate-700/50 rounded-2xl;
+  }
+
+  .btn-primary {
+    @apply bg-forest-500 hover:bg-forest-600 text-white font-semibold px-6 py-3 rounded-xl transition-all duration-200 hover:shadow-lg hover:shadow-forest-500/25 active:scale-95 font-body;
+    font-family: 'DM Sans', sans-serif;
+  }
+
+  .btn-secondary {
+    @apply bg-slate-700 hover:bg-slate-600 text-slate-100 font-semibold px-6 py-3 rounded-xl transition-all duration-200 active:scale-95 font-body;
+    font-family: 'DM Sans', sans-serif;
+  }
+
+  .btn-outline {
+    @apply border border-forest-500 text-forest-400 hover:bg-forest-500/10 font-semibold px-6 py-3 rounded-xl transition-all duration-200 active:scale-95;
+  }
+
+  .form-input {
+    @apply w-full bg-slate-800/80 border border-slate-700 rounded-xl px-4 py-3 text-slate-100 placeholder-slate-500 focus:outline-none focus:ring-2 focus:ring-forest-500/50 focus:border-forest-500 transition-all duration-200;
+    font-family: 'DM Sans', sans-serif;
+  }
+
+  .form-label {
+    @apply block text-sm font-medium text-slate-300 mb-2;
+    font-family: 'DM Sans', sans-serif;
+  }
+
+  .section-title {
+    @apply text-2xl font-bold text-slate-100;
+    font-family: 'Syne', sans-serif;
+  }
+
+  .urgency-high {
+    @apply bg-red-500/15 border-red-500/40 text-red-400;
+  }
+
+  .urgency-medium {
+    @apply bg-amber-500/15 border-amber-500/40 text-amber-400;
+  }
+
+  .urgency-low {
+    @apply bg-forest-500/15 border-forest-500/40 text-forest-400;
+  }
+
+  .dot-high { @apply bg-red-400; }
+  .dot-medium { @apply bg-amber-400; }
+  .dot-low { @apply bg-forest-400; }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #1e293b;
+}
+::-webkit-scrollbar-thumb {
+  background: #334155;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #475569;
+}
+
+/* Leaflet overrides */
+.leaflet-container {
+  background: #0f172a !important;
+  font-family: 'DM Sans', sans-serif !important;
+  border-radius: 1rem;
+}
+.leaflet-tile {
+  filter: hue-rotate(180deg) invert(1) brightness(0.85) saturate(0.9);
+}
+
+/* Staggered animation helpers */
+.anim-delay-100 { animation-delay: 100ms; }
+.anim-delay-200 { animation-delay: 200ms; }
+.anim-delay-300 { animation-delay: 300ms; }
+.anim-delay-400 { animation-delay: 400ms; }
