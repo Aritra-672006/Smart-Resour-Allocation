@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "69e1bfb605b8d78ca9549f5c"
+  },
+  "ngo_name": "ABC NGO",
+  "location": "Kolkata",
+  "report_text": "Flood situation",
+  "people_affected": 500
+}]

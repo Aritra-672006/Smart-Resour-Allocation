@@ -1,0 +1,12 @@
+[{
+  "_id": "ObjectId",
+  "name": "John Doe",
+  "phone": "9876543210",
+  "skills": [
+    "medical",
+    "logistics"
+  ],
+  "location": "Kolkata",
+  "availability": "weekends",
+  "registered_at": "2026-04-17T10:00:00Z"
+}]

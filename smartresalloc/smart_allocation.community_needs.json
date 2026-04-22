@@ -1,0 +1,6000 @@
+[{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b6b"
+  },
+  "need_type": "Food",
+  "location": "Howrah",
+  "urgency": "low",
+  "people_affected": 160,
+  "lat": 23.2245,
+  "lng": 87.3488,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b6c"
+  },
+  "need_type": "Clothing",
+  "location": "Howrah",
+  "urgency": "medium",
+  "people_affected": 36,
+  "lat": 22.149,
+  "lng": 87.5466,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b6d"
+  },
+  "need_type": "Clothing",
+  "location": "Kolkata",
+  "urgency": "high",
+  "people_affected": 386,
+  "lat": 25.2494,
+  "lng": 88.3624,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b6e"
+  },
+  "need_type": "Clothing",
+  "location": "Darjeeling",
+  "urgency": "medium",
+  "people_affected": 434,
+  "lat": 26.3465,
+  "lng": 88.897,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b6f"
+  },
+  "need_type": "Shelter",
+  "location": "Malda",
+  "urgency": "medium",
+  "people_affected": 99,
+  "lat": 23.0766,
+  "lng": 88.9087,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b70"
+  },
+  "need_type": "Water",
+  "location": "Howrah",
+  "urgency": "high",
+  "people_affected": 203,
+  "lat": 26.2375,
+  "lng": 88.5093,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b71"
+  },
+  "need_type": "Clothing",
+  "location": "Darjeeling",
+  "urgency": "high",
+  "people_affected": 492,
+  "lat": 23.8927,
+  "lng": 88.3801,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b72"
+  },
+  "need_type": "Clothing",
+  "location": "Asansol",
+  "urgency": "high",
+  "people_affected": 380,
+  "lat": 22.3478,
+  "lng": 88.6532,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b73"
+  },
+  "need_type": "Medicine",
+  "location": "Howrah",
+  "urgency": "high",
+  "people_affected": 214,
+  "lat": 23.3899,
+  "lng": 88.5892,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b74"
+  },
+  "need_type": "Shelter",
+  "location": "Siliguri",
+  "urgency": "medium",
+  "people_affected": 127,
+  "lat": 25.3509,
+  "lng": 88.7546,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b75"
+  },
+  "need_type": "Clothing",
+  "location": "Howrah",
+  "urgency": "low",
+  "people_affected": 107,
+  "lat": 24.6707,
+  "lng": 87.612,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b76"
+  },
+  "need_type": "Shelter",
+  "location": "Malda",
+  "urgency": "low",
+  "people_affected": 372,
+  "lat": 24.7847,
+  "lng": 88.7115,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b77"
+  },
+  "need_type": "Food",
+  "location": "Murshidabad",
+  "urgency": "medium",
+  "people_affected": 225,
+  "lat": 23.3387,
+  "lng": 87.5275,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b78"
+  },
+  "need_type": "Medicine",
+  "location": "Asansol",
+  "urgency": "low",
+  "people_affected": 275,
+  "lat": 23.9782,
+  "lng": 89.2864,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b79"
+  },
+  "need_type": "Shelter",
+  "location": "Siliguri",
+  "urgency": "high",
+  "people_affected": 146,
+  "lat": 25.7249,
+  "lng": 88.3474,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b7a"
+  },
+  "need_type": "Clothing",
+  "location": "Malda",
+  "urgency": "medium",
+  "people_affected": 205,
+  "lat": 23.0966,
+  "lng": 89.4938,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b7b"
+  },
+  "need_type": "Food",
+  "location": "Darjeeling",
+  "urgency": "high",
+  "people_affected": 460,
+  "lat": 22.5482,
+  "lng": 88.5686,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b7c"
+  },
+  "need_type": "Clothing",
+  "location": "Malda",
+  "urgency": "high",
+  "people_affected": 217,
+  "lat": 23.9081,
+  "lng": 89.4903,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b7d"
+  },
+  "need_type": "Clothing",
+  "location": "Durgapur",
+  "urgency": "high",
+  "people_affected": 368,
+  "lat": 25.6036,
+  "lng": 88.7043,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b7e"
+  },
+  "need_type": "Shelter",
+  "location": "Durgapur",
+  "urgency": "high",
+  "people_affected": 170,
+  "lat": 24.1738,
+  "lng": 88.1343,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b7f"
+  },
+  "need_type": "Clothing",
+  "location": "Durgapur",
+  "urgency": "high",
+  "people_affected": 279,
+  "lat": 26.5631,
+  "lng": 89.1763,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b80"
+  },
+  "need_type": "Medicine",
+  "location": "Murshidabad",
+  "urgency": "medium",
+  "people_affected": 410,
+  "lat": 22.8077,
+  "lng": 89.3837,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b81"
+  },
+  "need_type": "Clothing",
+  "location": "Kolkata",
+  "urgency": "medium",
+  "people_affected": 270,
+  "lat": 22.0974,
+  "lng": 89.3227,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b82"
+  },
+  "need_type": "Food",
+  "location": "Murshidabad",
+  "urgency": "high",
+  "people_affected": 469,
+  "lat": 24.8368,
+  "lng": 87.1969,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b83"
+  },
+  "need_type": "Food",
+  "location": "Darjeeling",
+  "urgency": "low",
+  "people_affected": 412,
+  "lat": 22.6288,
+  "lng": 88.6494,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b84"
+  },
+  "need_type": "Shelter",
+  "location": "Siliguri",
+  "urgency": "low",
+  "people_affected": 466,
+  "lat": 25.033,
+  "lng": 89.4109,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b85"
+  },
+  "need_type": "Shelter",
+  "location": "Murshidabad",
+  "urgency": "medium",
+  "people_affected": 363,
+  "lat": 25.2494,
+  "lng": 88.0953,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b86"
+  },
+  "need_type": "Food",
+  "location": "Darjeeling",
+  "urgency": "high",
+  "people_affected": 135,
+  "lat": 22.3201,
+  "lng": 87.0526,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b87"
+  },
+  "need_type": "Clothing",
+  "location": "Murshidabad",
+  "urgency": "high",
+  "people_affected": 23,
+  "lat": 22.355,
+  "lng": 88.5778,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b88"
+  },
+  "need_type": "Food",
+  "location": "Howrah",
+  "urgency": "medium",
+  "people_affected": 56,
+  "lat": 24.5708,
+  "lng": 87.6962,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b89"
+  },
+  "need_type": "Clothing",
+  "location": "Murshidabad",
+  "urgency": "high",
+  "people_affected": 390,
+  "lat": 26.6776,
+  "lng": 88.4276,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b8a"
+  },
+  "need_type": "Water",
+  "location": "Murshidabad",
+  "urgency": "medium",
+  "people_affected": 117,
+  "lat": 22.4716,
+  "lng": 88.6475,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b8b"
+  },
+  "need_type": "Water",
+  "location": "Malda",
+  "urgency": "medium",
+  "people_affected": 462,
+  "lat": 25.6454,
+  "lng": 88.6834,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b8c"
+  },
+  "need_type": "Food",
+  "location": "Howrah",
+  "urgency": "medium",
+  "people_affected": 392,
+  "lat": 23.6965,
+  "lng": 89.1542,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b8d"
+  },
+  "need_type": "Medicine",
+  "location": "Murshidabad",
+  "urgency": "low",
+  "people_affected": 249,
+  "lat": 22.7009,
+  "lng": 87.4587,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b8e"
+  },
+  "need_type": "Food",
+  "location": "Murshidabad",
+  "urgency": "medium",
+  "people_affected": 433,
+  "lat": 26.3067,
+  "lng": 88.3758,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b8f"
+  },
+  "need_type": "Food",
+  "location": "Kolkata",
+  "urgency": "high",
+  "people_affected": 105,
+  "lat": 24.0321,
+  "lng": 88.2034,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b90"
+  },
+  "need_type": "Medicine",
+  "location": "Kolkata",
+  "urgency": "medium",
+  "people_affected": 21,
+  "lat": 26.9265,
+  "lng": 87.663,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b91"
+  },
+  "need_type": "Water",
+  "location": "Durgapur",
+  "urgency": "low",
+  "people_affected": 394,
+  "lat": 26.9771,
+  "lng": 88.3894,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b92"
+  },
+  "need_type": "Medicine",
+  "location": "Darjeeling",
+  "urgency": "high",
+  "people_affected": 171,
+  "lat": 23.0885,
+  "lng": 87.1462,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b93"
+  },
+  "need_type": "Shelter",
+  "location": "Kolkata",
+  "urgency": "high",
+  "people_affected": 45,
+  "lat": 24.9209,
+  "lng": 88.2571,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b94"
+  },
+  "need_type": "Food",
+  "location": "Siliguri",
+  "urgency": "low",
+  "people_affected": 61,
+  "lat": 26.2567,
+  "lng": 87.1713,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b95"
+  },
+  "need_type": "Water",
+  "location": "Murshidabad",
+  "urgency": "high",
+  "people_affected": 475,
+  "lat": 24.8484,
+  "lng": 88.4473,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b96"
+  },
+  "need_type": "Water",
+  "location": "Howrah",
+  "urgency": "low",
+  "people_affected": 318,
+  "lat": 24.8261,
+  "lng": 87.7909,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b97"
+  },
+  "need_type": "Shelter",
+  "location": "Murshidabad",
+  "urgency": "high",
+  "people_affected": 155,
+  "lat": 23.9789,
+  "lng": 88.6792,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b98"
+  },
+  "need_type": "Shelter",
+  "location": "Darjeeling",
+  "urgency": "high",
+  "people_affected": 24,
+  "lat": 24.2914,
+  "lng": 89.4961,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b99"
+  },
+  "need_type": "Clothing",
+  "location": "Howrah",
+  "urgency": "high",
+  "people_affected": 279,
+  "lat": 23.326,
+  "lng": 89.3331,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b9a"
+  },
+  "need_type": "Shelter",
+  "location": "Murshidabad",
+  "urgency": "medium",
+  "people_affected": 100,
+  "lat": 24.1909,
+  "lng": 88.358,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b9b"
+  },
+  "need_type": "Clothing",
+  "location": "Kolkata",
+  "urgency": "medium",
+  "people_affected": 497,
+  "lat": 25.3169,
+  "lng": 89.3473,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b9c"
+  },
+  "need_type": "Food",
+  "location": "Durgapur",
+  "urgency": "high",
+  "people_affected": 400,
+  "lat": 24.7661,
+  "lng": 87.6809,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b9d"
+  },
+  "need_type": "Shelter",
+  "location": "Murshidabad",
+  "urgency": "high",
+  "people_affected": 371,
+  "lat": 25.1712,
+  "lng": 87.66,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b9e"
+  },
+  "need_type": "Food",
+  "location": "Durgapur",
+  "urgency": "high",
+  "people_affected": 344,
+  "lat": 24.1179,
+  "lng": 87.6917,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549b9f"
+  },
+  "need_type": "Medicine",
+  "location": "Asansol",
+  "urgency": "low",
+  "people_affected": 154,
+  "lat": 22.8079,
+  "lng": 88.1046,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549ba0"
+  },
+  "need_type": "Clothing",
+  "location": "Malda",
+  "urgency": "high",
+  "people_affected": 77,
+  "lat": 22.3762,
+  "lng": 89.2078,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549ba1"
+  },
+  "need_type": "Shelter",
+  "location": "Kolkata",
+  "urgency": "low",
+  "people_affected": 302,
+  "lat": 22.7405,
+  "lng": 87.3186,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549ba2"
+  },
+  "need_type": "Food",
+  "location": "Asansol",
+  "urgency": "medium",
+  "people_affected": 127,
+  "lat": 25.4103,
+  "lng": 88.6673,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549ba3"
+  },
+  "need_type": "Clothing",
+  "location": "Malda",
+  "urgency": "low",
+  "people_affected": 99,
+  "lat": 26.6288,
+  "lng": 87.5918,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549ba4"
+  },
+  "need_type": "Water",
+  "location": "Siliguri",
+  "urgency": "high",
+  "people_affected": 111,
+  "lat": 25.6828,
+  "lng": 87.8305,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549ba5"
+  },
+  "need_type": "Shelter",
+  "location": "Murshidabad",
+  "urgency": "high",
+  "people_affected": 423,
+  "lat": 25.5064,
+  "lng": 87.9564,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549ba6"
+  },
+  "need_type": "Medicine",
+  "location": "Darjeeling",
+  "urgency": "high",
+  "people_affected": 438,
+  "lat": 26.5923,
+  "lng": 87.8741,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549ba7"
+  },
+  "need_type": "Food",
+  "location": "Murshidabad",
+  "urgency": "low",
+  "people_affected": 118,
+  "lat": 23.9923,
+  "lng": 87.6965,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549ba8"
+  },
+  "need_type": "Shelter",
+  "location": "Durgapur",
+  "urgency": "low",
+  "people_affected": 280,
+  "lat": 23.9984,
+  "lng": 89.4529,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549ba9"
+  },
+  "need_type": "Food",
+  "location": "Asansol",
+  "urgency": "high",
+  "people_affected": 469,
+  "lat": 26.852,
+  "lng": 87.4464,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549baa"
+  },
+  "need_type": "Food",
+  "location": "Kolkata",
+  "urgency": "low",
+  "people_affected": 242,
+  "lat": 23.7284,
+  "lng": 88.9661,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bab"
+  },
+  "need_type": "Water",
+  "location": "Howrah",
+  "urgency": "low",
+  "people_affected": 117,
+  "lat": 23.2736,
+  "lng": 88.772,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bac"
+  },
+  "need_type": "Shelter",
+  "location": "Murshidabad",
+  "urgency": "medium",
+  "people_affected": 55,
+  "lat": 26.7444,
+  "lng": 89.3019,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bad"
+  },
+  "need_type": "Food",
+  "location": "Asansol",
+  "urgency": "low",
+  "people_affected": 480,
+  "lat": 23.5016,
+  "lng": 87.7732,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bae"
+  },
+  "need_type": "Water",
+  "location": "Asansol",
+  "urgency": "low",
+  "people_affected": 171,
+  "lat": 24.7721,
+  "lng": 87.4796,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549baf"
+  },
+  "need_type": "Medicine",
+  "location": "Malda",
+  "urgency": "low",
+  "people_affected": 311,
+  "lat": 23.5047,
+  "lng": 88.3698,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bb0"
+  },
+  "need_type": "Shelter",
+  "location": "Durgapur",
+  "urgency": "high",
+  "people_affected": 240,
+  "lat": 25.9288,
+  "lng": 88.5167,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bb1"
+  },
+  "need_type": "Water",
+  "location": "Darjeeling",
+  "urgency": "medium",
+  "people_affected": 365,
+  "lat": 23.0685,
+  "lng": 88.183,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bb2"
+  },
+  "need_type": "Food",
+  "location": "Siliguri",
+  "urgency": "medium",
+  "people_affected": 283,
+  "lat": 25.3193,
+  "lng": 88.5482,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bb3"
+  },
+  "need_type": "Shelter",
+  "location": "Murshidabad",
+  "urgency": "high",
+  "people_affected": 432,
+  "lat": 22.9956,
+  "lng": 87.0611,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bb4"
+  },
+  "need_type": "Clothing",
+  "location": "Darjeeling",
+  "urgency": "high",
+  "people_affected": 253,
+  "lat": 24.0722,
+  "lng": 88.5744,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bb5"
+  },
+  "need_type": "Water",
+  "location": "Malda",
+  "urgency": "medium",
+  "people_affected": 144,
+  "lat": 22.7379,
+  "lng": 88.7191,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bb6"
+  },
+  "need_type": "Medicine",
+  "location": "Malda",
+  "urgency": "high",
+  "people_affected": 431,
+  "lat": 26.7898,
+  "lng": 88.2949,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bb7"
+  },
+  "need_type": "Food",
+  "location": "Murshidabad",
+  "urgency": "medium",
+  "people_affected": 88,
+  "lat": 26.0071,
+  "lng": 88.6689,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bb8"
+  },
+  "need_type": "Water",
+  "location": "Asansol",
+  "urgency": "low",
+  "people_affected": 437,
+  "lat": 25.5964,
+  "lng": 88.2619,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bb9"
+  },
+  "need_type": "Medicine",
+  "location": "Darjeeling",
+  "urgency": "low",
+  "people_affected": 461,
+  "lat": 24.3734,
+  "lng": 87.648,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bba"
+  },
+  "need_type": "Clothing",
+  "location": "Durgapur",
+  "urgency": "medium",
+  "people_affected": 340,
+  "lat": 23.1962,
+  "lng": 88.0997,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bbb"
+  },
+  "need_type": "Medicine",
+  "location": "Durgapur",
+  "urgency": "medium",
+  "people_affected": 191,
+  "lat": 23.5985,
+  "lng": 88.3504,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bbc"
+  },
+  "need_type": "Medicine",
+  "location": "Siliguri",
+  "urgency": "medium",
+  "people_affected": 375,
+  "lat": 22.764,
+  "lng": 87.5349,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bbd"
+  },
+  "need_type": "Shelter",
+  "location": "Malda",
+  "urgency": "low",
+  "people_affected": 258,
+  "lat": 24.0789,
+  "lng": 87.5171,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bbe"
+  },
+  "need_type": "Clothing",
+  "location": "Malda",
+  "urgency": "low",
+  "people_affected": 30,
+  "lat": 26.2837,
+  "lng": 88.914,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bbf"
+  },
+  "need_type": "Food",
+  "location": "Darjeeling",
+  "urgency": "medium",
+  "people_affected": 172,
+  "lat": 25.7674,
+  "lng": 89.1336,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bc0"
+  },
+  "need_type": "Water",
+  "location": "Murshidabad",
+  "urgency": "high",
+  "people_affected": 159,
+  "lat": 24.1792,
+  "lng": 87.0726,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bc1"
+  },
+  "need_type": "Medicine",
+  "location": "Malda",
+  "urgency": "medium",
+  "people_affected": 490,
+  "lat": 22.6381,
+  "lng": 88.5556,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bc2"
+  },
+  "need_type": "Clothing",
+  "location": "Malda",
+  "urgency": "low",
+  "people_affected": 359,
+  "lat": 22.1355,
+  "lng": 88.6069,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bc3"
+  },
+  "need_type": "Medicine",
+  "location": "Darjeeling",
+  "urgency": "high",
+  "people_affected": 153,
+  "lat": 23.8955,
+  "lng": 87.5292,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bc4"
+  },
+  "need_type": "Water",
+  "location": "Asansol",
+  "urgency": "medium",
+  "people_affected": 405,
+  "lat": 26.756,
+  "lng": 88.0539,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bc5"
+  },
+  "need_type": "Food",
+  "location": "Darjeeling",
+  "urgency": "low",
+  "people_affected": 296,
+  "lat": 22.2604,
+  "lng": 89.3798,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bc6"
+  },
+  "need_type": "Food",
+  "location": "Howrah",
+  "urgency": "high",
+  "people_affected": 146,
+  "lat": 22.9968,
+  "lng": 87.051,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bc7"
+  },
+  "need_type": "Medicine",
+  "location": "Murshidabad",
+  "urgency": "medium",
+  "people_affected": 362,
+  "lat": 22.5719,
+  "lng": 89.3694,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bc8"
+  },
+  "need_type": "Shelter",
+  "location": "Durgapur",
+  "urgency": "high",
+  "people_affected": 330,
+  "lat": 25.0362,
+  "lng": 88.8698,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bc9"
+  },
+  "need_type": "Shelter",
+  "location": "Siliguri",
+  "urgency": "high",
+  "people_affected": 316,
+  "lat": 22.1284,
+  "lng": 87.7799,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bca"
+  },
+  "need_type": "Water",
+  "location": "Malda",
+  "urgency": "low",
+  "people_affected": 121,
+  "lat": 22.38,
+  "lng": 88.7265,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bcb"
+  },
+  "need_type": "Food",
+  "location": "Murshidabad",
+  "urgency": "low",
+  "people_affected": 415,
+  "lat": 23.5079,
+  "lng": 88.7106,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bcc"
+  },
+  "need_type": "Shelter",
+  "location": "Kolkata",
+  "urgency": "low",
+  "people_affected": 239,
+  "lat": 25.3076,
+  "lng": 87.1724,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bcd"
+  },
+  "need_type": "Food",
+  "location": "Asansol",
+  "urgency": "medium",
+  "people_affected": 441,
+  "lat": 24.451,
+  "lng": 88.0838,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bce"
+  },
+  "need_type": "Medicine",
+  "location": "Darjeeling",
+  "urgency": "medium",
+  "people_affected": 110,
+  "lat": 25.669,
+  "lng": 89.4137,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bcf"
+  },
+  "need_type": "Water",
+  "location": "Darjeeling",
+  "urgency": "medium",
+  "people_affected": 442,
+  "lat": 25.6551,
+  "lng": 87.671,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bd0"
+  },
+  "need_type": "Shelter",
+  "location": "Howrah",
+  "urgency": "medium",
+  "people_affected": 144,
+  "lat": 25.7524,
+  "lng": 88.4246,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bd1"
+  },
+  "need_type": "Shelter",
+  "location": "Malda",
+  "urgency": "high",
+  "people_affected": 273,
+  "lat": 26.2548,
+  "lng": 87.4546,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bd2"
+  },
+  "need_type": "Shelter",
+  "location": "Asansol",
+  "urgency": "medium",
+  "people_affected": 163,
+  "lat": 26.4016,
+  "lng": 88.753,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bd3"
+  },
+  "need_type": "Clothing",
+  "location": "Kolkata",
+  "urgency": "high",
+  "people_affected": 63,
+  "lat": 23.2068,
+  "lng": 88.0161,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bd4"
+  },
+  "need_type": "Water",
+  "location": "Murshidabad",
+  "urgency": "low",
+  "people_affected": 384,
+  "lat": 24.4541,
+  "lng": 88.9823,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bd5"
+  },
+  "need_type": "Medicine",
+  "location": "Durgapur",
+  "urgency": "medium",
+  "people_affected": 374,
+  "lat": 23.2165,
+  "lng": 88.6599,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bd6"
+  },
+  "need_type": "Clothing",
+  "location": "Darjeeling",
+  "urgency": "low",
+  "people_affected": 196,
+  "lat": 24.1275,
+  "lng": 88.8648,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bd7"
+  },
+  "need_type": "Water",
+  "location": "Asansol",
+  "urgency": "medium",
+  "people_affected": 176,
+  "lat": 23.257,
+  "lng": 87.3016,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bd8"
+  },
+  "need_type": "Food",
+  "location": "Asansol",
+  "urgency": "low",
+  "people_affected": 294,
+  "lat": 26.7544,
+  "lng": 88.7254,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bd9"
+  },
+  "need_type": "Water",
+  "location": "Murshidabad",
+  "urgency": "medium",
+  "people_affected": 390,
+  "lat": 24.9479,
+  "lng": 88.9005,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bda"
+  },
+  "need_type": "Food",
+  "location": "Durgapur",
+  "urgency": "high",
+  "people_affected": 171,
+  "lat": 23.1374,
+  "lng": 87.4486,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bdb"
+  },
+  "need_type": "Shelter",
+  "location": "Siliguri",
+  "urgency": "high",
+  "people_affected": 47,
+  "lat": 24.7668,
+  "lng": 88.7435,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bdc"
+  },
+  "need_type": "Food",
+  "location": "Darjeeling",
+  "urgency": "high",
+  "people_affected": 313,
+  "lat": 23.4217,
+  "lng": 88.1968,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bdd"
+  },
+  "need_type": "Food",
+  "location": "Siliguri",
+  "urgency": "medium",
+  "people_affected": 461,
+  "lat": 24.3886,
+  "lng": 89.0553,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bde"
+  },
+  "need_type": "Food",
+  "location": "Darjeeling",
+  "urgency": "low",
+  "people_affected": 342,
+  "lat": 25.4323,
+  "lng": 87.3793,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bdf"
+  },
+  "need_type": "Food",
+  "location": "Durgapur",
+  "urgency": "high",
+  "people_affected": 80,
+  "lat": 24.7904,
+  "lng": 88.0404,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549be0"
+  },
+  "need_type": "Clothing",
+  "location": "Murshidabad",
+  "urgency": "medium",
+  "people_affected": 250,
+  "lat": 26.5425,
+  "lng": 87.7434,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549be1"
+  },
+  "need_type": "Shelter",
+  "location": "Malda",
+  "urgency": "low",
+  "people_affected": 337,
+  "lat": 22.3012,
+  "lng": 89.4003,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549be2"
+  },
+  "need_type": "Medicine",
+  "location": "Murshidabad",
+  "urgency": "medium",
+  "people_affected": 358,
+  "lat": 22.4059,
+  "lng": 87.5997,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549be3"
+  },
+  "need_type": "Medicine",
+  "location": "Howrah",
+  "urgency": "high",
+  "people_affected": 229,
+  "lat": 24.2525,
+  "lng": 88.4845,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549be4"
+  },
+  "need_type": "Medicine",
+  "location": "Kolkata",
+  "urgency": "medium",
+  "people_affected": 381,
+  "lat": 23.4136,
+  "lng": 89.149,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549be5"
+  },
+  "need_type": "Shelter",
+  "location": "Murshidabad",
+  "urgency": "low",
+  "people_affected": 321,
+  "lat": 25.3059,
+  "lng": 89.3342,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549be6"
+  },
+  "need_type": "Clothing",
+  "location": "Howrah",
+  "urgency": "high",
+  "people_affected": 351,
+  "lat": 22.7449,
+  "lng": 87.6641,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549be7"
+  },
+  "need_type": "Food",
+  "location": "Howrah",
+  "urgency": "high",
+  "people_affected": 425,
+  "lat": 23.5381,
+  "lng": 88.8724,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549be8"
+  },
+  "need_type": "Water",
+  "location": "Durgapur",
+  "urgency": "high",
+  "people_affected": 259,
+  "lat": 25.4434,
+  "lng": 88.7493,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549be9"
+  },
+  "need_type": "Water",
+  "location": "Darjeeling",
+  "urgency": "high",
+  "people_affected": 326,
+  "lat": 22.1993,
+  "lng": 88.0801,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bea"
+  },
+  "need_type": "Food",
+  "location": "Durgapur",
+  "urgency": "high",
+  "people_affected": 137,
+  "lat": 26.8096,
+  "lng": 89.0899,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549beb"
+  },
+  "need_type": "Shelter",
+  "location": "Kolkata",
+  "urgency": "low",
+  "people_affected": 40,
+  "lat": 25.8155,
+  "lng": 87.438,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bec"
+  },
+  "need_type": "Shelter",
+  "location": "Darjeeling",
+  "urgency": "high",
+  "people_affected": 319,
+  "lat": 24.1794,
+  "lng": 89.0356,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bed"
+  },
+  "need_type": "Shelter",
+  "location": "Darjeeling",
+  "urgency": "medium",
+  "people_affected": 190,
+  "lat": 23.6053,
+  "lng": 87.2615,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bee"
+  },
+  "need_type": "Water",
+  "location": "Asansol",
+  "urgency": "low",
+  "people_affected": 273,
+  "lat": 23.4411,
+  "lng": 89.363,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bef"
+  },
+  "need_type": "Water",
+  "location": "Kolkata",
+  "urgency": "high",
+  "people_affected": 181,
+  "lat": 23.262,
+  "lng": 87.2898,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bf0"
+  },
+  "need_type": "Clothing",
+  "location": "Kolkata",
+  "urgency": "medium",
+  "people_affected": 231,
+  "lat": 22.271,
+  "lng": 88.2961,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bf1"
+  },
+  "need_type": "Water",
+  "location": "Darjeeling",
+  "urgency": "high",
+  "people_affected": 124,
+  "lat": 23.3353,
+  "lng": 87.3275,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bf2"
+  },
+  "need_type": "Water",
+  "location": "Darjeeling",
+  "urgency": "high",
+  "people_affected": 34,
+  "lat": 26.8657,
+  "lng": 88.5222,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bf3"
+  },
+  "need_type": "Shelter",
+  "location": "Siliguri",
+  "urgency": "low",
+  "people_affected": 27,
+  "lat": 24.7613,
+  "lng": 87.233,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bf4"
+  },
+  "need_type": "Food",
+  "location": "Darjeeling",
+  "urgency": "low",
+  "people_affected": 446,
+  "lat": 22.7699,
+  "lng": 89.3316,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bf5"
+  },
+  "need_type": "Water",
+  "location": "Durgapur",
+  "urgency": "medium",
+  "people_affected": 261,
+  "lat": 23.2187,
+  "lng": 88.3782,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bf6"
+  },
+  "need_type": "Clothing",
+  "location": "Murshidabad",
+  "urgency": "low",
+  "people_affected": 402,
+  "lat": 26.3966,
+  "lng": 89.1601,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bf7"
+  },
+  "need_type": "Shelter",
+  "location": "Malda",
+  "urgency": "low",
+  "people_affected": 156,
+  "lat": 26.1027,
+  "lng": 87.7071,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bf8"
+  },
+  "need_type": "Medicine",
+  "location": "Darjeeling",
+  "urgency": "medium",
+  "people_affected": 295,
+  "lat": 24.4217,
+  "lng": 87.8311,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bf9"
+  },
+  "need_type": "Water",
+  "location": "Malda",
+  "urgency": "medium",
+  "people_affected": 465,
+  "lat": 22.9433,
+  "lng": 88.7437,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bfa"
+  },
+  "need_type": "Medicine",
+  "location": "Malda",
+  "urgency": "medium",
+  "people_affected": 42,
+  "lat": 23.5909,
+  "lng": 88.1824,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bfb"
+  },
+  "need_type": "Medicine",
+  "location": "Malda",
+  "urgency": "medium",
+  "people_affected": 38,
+  "lat": 22.6312,
+  "lng": 89.4134,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bfc"
+  },
+  "need_type": "Water",
+  "location": "Howrah",
+  "urgency": "high",
+  "people_affected": 289,
+  "lat": 26.5522,
+  "lng": 87.0384,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bfd"
+  },
+  "need_type": "Medicine",
+  "location": "Malda",
+  "urgency": "high",
+  "people_affected": 260,
+  "lat": 25.9076,
+  "lng": 87.6626,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bfe"
+  },
+  "need_type": "Food",
+  "location": "Malda",
+  "urgency": "medium",
+  "people_affected": 456,
+  "lat": 25.3718,
+  "lng": 88.3341,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549bff"
+  },
+  "need_type": "Clothing",
+  "location": "Darjeeling",
+  "urgency": "high",
+  "people_affected": 336,
+  "lat": 22.3421,
+  "lng": 88.5779,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c00"
+  },
+  "need_type": "Food",
+  "location": "Murshidabad",
+  "urgency": "medium",
+  "people_affected": 70,
+  "lat": 25.8018,
+  "lng": 88.7597,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c01"
+  },
+  "need_type": "Medicine",
+  "location": "Darjeeling",
+  "urgency": "low",
+  "people_affected": 173,
+  "lat": 26.5171,
+  "lng": 87.115,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c02"
+  },
+  "need_type": "Shelter",
+  "location": "Durgapur",
+  "urgency": "medium",
+  "people_affected": 240,
+  "lat": 22.7278,
+  "lng": 88.3279,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c03"
+  },
+  "need_type": "Medicine",
+  "location": "Siliguri",
+  "urgency": "high",
+  "people_affected": 60,
+  "lat": 25.0475,
+  "lng": 87.9564,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c04"
+  },
+  "need_type": "Water",
+  "location": "Murshidabad",
+  "urgency": "low",
+  "people_affected": 93,
+  "lat": 23.1609,
+  "lng": 88.5948,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c05"
+  },
+  "need_type": "Food",
+  "location": "Durgapur",
+  "urgency": "medium",
+  "people_affected": 481,
+  "lat": 23.4382,
+  "lng": 88.3665,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c06"
+  },
+  "need_type": "Shelter",
+  "location": "Darjeeling",
+  "urgency": "low",
+  "people_affected": 173,
+  "lat": 25.1947,
+  "lng": 88.0608,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c07"
+  },
+  "need_type": "Shelter",
+  "location": "Darjeeling",
+  "urgency": "high",
+  "people_affected": 216,
+  "lat": 26.2667,
+  "lng": 87.2666,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c08"
+  },
+  "need_type": "Clothing",
+  "location": "Asansol",
+  "urgency": "medium",
+  "people_affected": 378,
+  "lat": 23.4762,
+  "lng": 89.4449,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c09"
+  },
+  "need_type": "Shelter",
+  "location": "Malda",
+  "urgency": "high",
+  "people_affected": 309,
+  "lat": 26.3253,
+  "lng": 88.9458,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c0a"
+  },
+  "need_type": "Shelter",
+  "location": "Darjeeling",
+  "urgency": "high",
+  "people_affected": 330,
+  "lat": 26.0097,
+  "lng": 87.5475,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c0b"
+  },
+  "need_type": "Medicine",
+  "location": "Durgapur",
+  "urgency": "low",
+  "people_affected": 69,
+  "lat": 26.517,
+  "lng": 88.6159,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c0c"
+  },
+  "need_type": "Food",
+  "location": "Darjeeling",
+  "urgency": "low",
+  "people_affected": 206,
+  "lat": 25.6618,
+  "lng": 87.2253,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c0d"
+  },
+  "need_type": "Water",
+  "location": "Asansol",
+  "urgency": "high",
+  "people_affected": 122,
+  "lat": 22.6608,
+  "lng": 88.3485,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c0e"
+  },
+  "need_type": "Medicine",
+  "location": "Durgapur",
+  "urgency": "medium",
+  "people_affected": 487,
+  "lat": 26.1234,
+  "lng": 88.2046,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c0f"
+  },
+  "need_type": "Food",
+  "location": "Asansol",
+  "urgency": "medium",
+  "people_affected": 58,
+  "lat": 22.7038,
+  "lng": 89.4163,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c10"
+  },
+  "need_type": "Clothing",
+  "location": "Malda",
+  "urgency": "medium",
+  "people_affected": 66,
+  "lat": 25.9534,
+  "lng": 87.0348,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c11"
+  },
+  "need_type": "Water",
+  "location": "Howrah",
+  "urgency": "medium",
+  "people_affected": 364,
+  "lat": 25.7451,
+  "lng": 87.6554,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c12"
+  },
+  "need_type": "Food",
+  "location": "Asansol",
+  "urgency": "low",
+  "people_affected": 139,
+  "lat": 24.3574,
+  "lng": 88.5489,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c13"
+  },
+  "need_type": "Clothing",
+  "location": "Asansol",
+  "urgency": "high",
+  "people_affected": 351,
+  "lat": 22.3161,
+  "lng": 89.0596,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c14"
+  },
+  "need_type": "Water",
+  "location": "Durgapur",
+  "urgency": "high",
+  "people_affected": 91,
+  "lat": 22.2267,
+  "lng": 87.093,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c15"
+  },
+  "need_type": "Food",
+  "location": "Howrah",
+  "urgency": "high",
+  "people_affected": 474,
+  "lat": 24.6877,
+  "lng": 87.9716,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c16"
+  },
+  "need_type": "Clothing",
+  "location": "Malda",
+  "urgency": "low",
+  "people_affected": 392,
+  "lat": 22.7726,
+  "lng": 88.0372,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c17"
+  },
+  "need_type": "Clothing",
+  "location": "Darjeeling",
+  "urgency": "medium",
+  "people_affected": 500,
+  "lat": 26.7576,
+  "lng": 87.0818,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c18"
+  },
+  "need_type": "Water",
+  "location": "Murshidabad",
+  "urgency": "medium",
+  "people_affected": 140,
+  "lat": 26.2773,
+  "lng": 87.2484,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c19"
+  },
+  "need_type": "Clothing",
+  "location": "Asansol",
+  "urgency": "low",
+  "people_affected": 203,
+  "lat": 22.3028,
+  "lng": 87.6897,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c1a"
+  },
+  "need_type": "Food",
+  "location": "Darjeeling",
+  "urgency": "low",
+  "people_affected": 128,
+  "lat": 25.2085,
+  "lng": 88.4929,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c1b"
+  },
+  "need_type": "Shelter",
+  "location": "Kolkata",
+  "urgency": "high",
+  "people_affected": 84,
+  "lat": 25.9349,
+  "lng": 87.513,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c1c"
+  },
+  "need_type": "Clothing",
+  "location": "Murshidabad",
+  "urgency": "high",
+  "people_affected": 436,
+  "lat": 26.3485,
+  "lng": 87.8214,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c1d"
+  },
+  "need_type": "Shelter",
+  "location": "Kolkata",
+  "urgency": "high",
+  "people_affected": 86,
+  "lat": 24.7011,
+  "lng": 88.9963,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c1e"
+  },
+  "need_type": "Medicine",
+  "location": "Kolkata",
+  "urgency": "high",
+  "people_affected": 203,
+  "lat": 25.9499,
+  "lng": 87.5948,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c1f"
+  },
+  "need_type": "Medicine",
+  "location": "Kolkata",
+  "urgency": "medium",
+  "people_affected": 46,
+  "lat": 22.6338,
+  "lng": 88.0524,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c20"
+  },
+  "need_type": "Water",
+  "location": "Howrah",
+  "urgency": "medium",
+  "people_affected": 418,
+  "lat": 23.8102,
+  "lng": 88.4842,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c21"
+  },
+  "need_type": "Clothing",
+  "location": "Murshidabad",
+  "urgency": "high",
+  "people_affected": 392,
+  "lat": 25.9161,
+  "lng": 89.1675,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c22"
+  },
+  "need_type": "Water",
+  "location": "Durgapur",
+  "urgency": "low",
+  "people_affected": 35,
+  "lat": 22.3041,
+  "lng": 88.1975,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c23"
+  },
+  "need_type": "Food",
+  "location": "Malda",
+  "urgency": "medium",
+  "people_affected": 384,
+  "lat": 26.5485,
+  "lng": 87.1837,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c24"
+  },
+  "need_type": "Clothing",
+  "location": "Asansol",
+  "urgency": "high",
+  "people_affected": 53,
+  "lat": 22.631,
+  "lng": 88.5608,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c25"
+  },
+  "need_type": "Water",
+  "location": "Asansol",
+  "urgency": "low",
+  "people_affected": 291,
+  "lat": 23.4745,
+  "lng": 88.2639,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c26"
+  },
+  "need_type": "Food",
+  "location": "Howrah",
+  "urgency": "low",
+  "people_affected": 353,
+  "lat": 26.3885,
+  "lng": 88.3783,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c27"
+  },
+  "need_type": "Water",
+  "location": "Malda",
+  "urgency": "high",
+  "people_affected": 231,
+  "lat": 23.6947,
+  "lng": 88.1337,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c28"
+  },
+  "need_type": "Shelter",
+  "location": "Howrah",
+  "urgency": "medium",
+  "people_affected": 180,
+  "lat": 25.3255,
+  "lng": 87.9358,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c29"
+  },
+  "need_type": "Food",
+  "location": "Darjeeling",
+  "urgency": "high",
+  "people_affected": 445,
+  "lat": 22.4268,
+  "lng": 88.0797,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c2a"
+  },
+  "need_type": "Medicine",
+  "location": "Asansol",
+  "urgency": "low",
+  "people_affected": 50,
+  "lat": 24.9323,
+  "lng": 88.404,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c2b"
+  },
+  "need_type": "Water",
+  "location": "Howrah",
+  "urgency": "medium",
+  "people_affected": 467,
+  "lat": 25.3267,
+  "lng": 88.8757,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c2c"
+  },
+  "need_type": "Shelter",
+  "location": "Kolkata",
+  "urgency": "low",
+  "people_affected": 179,
+  "lat": 23.7582,
+  "lng": 88.4448,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c2d"
+  },
+  "need_type": "Water",
+  "location": "Siliguri",
+  "urgency": "high",
+  "people_affected": 453,
+  "lat": 22.5411,
+  "lng": 89.1134,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c2e"
+  },
+  "need_type": "Shelter",
+  "location": "Howrah",
+  "urgency": "low",
+  "people_affected": 135,
+  "lat": 26.0361,
+  "lng": 89.1129,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c2f"
+  },
+  "need_type": "Clothing",
+  "location": "Kolkata",
+  "urgency": "low",
+  "people_affected": 444,
+  "lat": 25.4674,
+  "lng": 87.0724,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c30"
+  },
+  "need_type": "Shelter",
+  "location": "Durgapur",
+  "urgency": "medium",
+  "people_affected": 23,
+  "lat": 22.907,
+  "lng": 87.3581,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c31"
+  },
+  "need_type": "Food",
+  "location": "Malda",
+  "urgency": "high",
+  "people_affected": 399,
+  "lat": 25.1659,
+  "lng": 87.0766,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c32"
+  },
+  "need_type": "Water",
+  "location": "Murshidabad",
+  "urgency": "medium",
+  "people_affected": 252,
+  "lat": 23.7045,
+  "lng": 87.9251,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c33"
+  },
+  "need_type": "Clothing",
+  "location": "Asansol",
+  "urgency": "low",
+  "people_affected": 63,
+  "lat": 26.4167,
+  "lng": 87.3889,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c34"
+  },
+  "need_type": "Food",
+  "location": "Kolkata",
+  "urgency": "medium",
+  "people_affected": 246,
+  "lat": 25.3097,
+  "lng": 88.2142,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c35"
+  },
+  "need_type": "Shelter",
+  "location": "Malda",
+  "urgency": "high",
+  "people_affected": 406,
+  "lat": 24.5617,
+  "lng": 87.8629,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c36"
+  },
+  "need_type": "Clothing",
+  "location": "Durgapur",
+  "urgency": "medium",
+  "people_affected": 289,
+  "lat": 25.3357,
+  "lng": 87.1135,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c37"
+  },
+  "need_type": "Food",
+  "location": "Kolkata",
+  "urgency": "high",
+  "people_affected": 174,
+  "lat": 26.7266,
+  "lng": 88.9184,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c38"
+  },
+  "need_type": "Shelter",
+  "location": "Durgapur",
+  "urgency": "high",
+  "people_affected": 23,
+  "lat": 24.4869,
+  "lng": 88.0766,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c39"
+  },
+  "need_type": "Clothing",
+  "location": "Malda",
+  "urgency": "low",
+  "people_affected": 137,
+  "lat": 24.5013,
+  "lng": 89.0834,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c3a"
+  },
+  "need_type": "Water",
+  "location": "Howrah",
+  "urgency": "low",
+  "people_affected": 41,
+  "lat": 24.1811,
+  "lng": 88.1494,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c3b"
+  },
+  "need_type": "Clothing",
+  "location": "Asansol",
+  "urgency": "medium",
+  "people_affected": 313,
+  "lat": 24.0221,
+  "lng": 88.6004,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c3c"
+  },
+  "need_type": "Water",
+  "location": "Howrah",
+  "urgency": "high",
+  "people_affected": 186,
+  "lat": 22.8594,
+  "lng": 89.369,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c3d"
+  },
+  "need_type": "Food",
+  "location": "Asansol",
+  "urgency": "medium",
+  "people_affected": 452,
+  "lat": 22.5293,
+  "lng": 88.0892,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c3e"
+  },
+  "need_type": "Water",
+  "location": "Howrah",
+  "urgency": "medium",
+  "people_affected": 401,
+  "lat": 23.6976,
+  "lng": 87.8327,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c3f"
+  },
+  "need_type": "Clothing",
+  "location": "Howrah",
+  "urgency": "low",
+  "people_affected": 78,
+  "lat": 24.653,
+  "lng": 87.4848,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c40"
+  },
+  "need_type": "Medicine",
+  "location": "Asansol",
+  "urgency": "high",
+  "people_affected": 72,
+  "lat": 22.7322,
+  "lng": 87.4932,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c41"
+  },
+  "need_type": "Food",
+  "location": "Siliguri",
+  "urgency": "high",
+  "people_affected": 415,
+  "lat": 25.1397,
+  "lng": 88.1599,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c42"
+  },
+  "need_type": "Clothing",
+  "location": "Darjeeling",
+  "urgency": "low",
+  "people_affected": 345,
+  "lat": 26.9327,
+  "lng": 87.808,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c43"
+  },
+  "need_type": "Medicine",
+  "location": "Asansol",
+  "urgency": "medium",
+  "people_affected": 54,
+  "lat": 24.3446,
+  "lng": 88.5785,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c44"
+  },
+  "need_type": "Shelter",
+  "location": "Kolkata",
+  "urgency": "low",
+  "people_affected": 57,
+  "lat": 23.552,
+  "lng": 88.1298,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c45"
+  },
+  "need_type": "Shelter",
+  "location": "Asansol",
+  "urgency": "high",
+  "people_affected": 350,
+  "lat": 26.3213,
+  "lng": 89.1382,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c46"
+  },
+  "need_type": "Water",
+  "location": "Malda",
+  "urgency": "low",
+  "people_affected": 303,
+  "lat": 26.7712,
+  "lng": 88.8473,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c47"
+  },
+  "need_type": "Clothing",
+  "location": "Darjeeling",
+  "urgency": "low",
+  "people_affected": 116,
+  "lat": 23.6076,
+  "lng": 88.1891,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c48"
+  },
+  "need_type": "Water",
+  "location": "Kolkata",
+  "urgency": "high",
+  "people_affected": 435,
+  "lat": 26.4956,
+  "lng": 87.8586,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c49"
+  },
+  "need_type": "Clothing",
+  "location": "Howrah",
+  "urgency": "low",
+  "people_affected": 108,
+  "lat": 22.1957,
+  "lng": 88.7691,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c4a"
+  },
+  "need_type": "Shelter",
+  "location": "Siliguri",
+  "urgency": "medium",
+  "people_affected": 489,
+  "lat": 23.4145,
+  "lng": 88.0219,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c4b"
+  },
+  "need_type": "Shelter",
+  "location": "Kolkata",
+  "urgency": "high",
+  "people_affected": 188,
+  "lat": 22.4725,
+  "lng": 88.6959,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c4c"
+  },
+  "need_type": "Clothing",
+  "location": "Durgapur",
+  "urgency": "high",
+  "people_affected": 190,
+  "lat": 22.4075,
+  "lng": 88.659,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c4d"
+  },
+  "need_type": "Water",
+  "location": "Durgapur",
+  "urgency": "high",
+  "people_affected": 324,
+  "lat": 25.5442,
+  "lng": 87.2118,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c4e"
+  },
+  "need_type": "Shelter",
+  "location": "Malda",
+  "urgency": "high",
+  "people_affected": 363,
+  "lat": 25.5142,
+  "lng": 89.3678,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c4f"
+  },
+  "need_type": "Water",
+  "location": "Howrah",
+  "urgency": "low",
+  "people_affected": 205,
+  "lat": 22.0912,
+  "lng": 87.7722,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c50"
+  },
+  "need_type": "Water",
+  "location": "Asansol",
+  "urgency": "high",
+  "people_affected": 135,
+  "lat": 26.9999,
+  "lng": 87.3874,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c51"
+  },
+  "need_type": "Clothing",
+  "location": "Howrah",
+  "urgency": "low",
+  "people_affected": 447,
+  "lat": 25.6932,
+  "lng": 88.3163,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c52"
+  },
+  "need_type": "Clothing",
+  "location": "Asansol",
+  "urgency": "high",
+  "people_affected": 325,
+  "lat": 23.8836,
+  "lng": 87.4056,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c53"
+  },
+  "need_type": "Water",
+  "location": "Siliguri",
+  "urgency": "high",
+  "people_affected": 230,
+  "lat": 23.8215,
+  "lng": 88.799,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c54"
+  },
+  "need_type": "Water",
+  "location": "Durgapur",
+  "urgency": "high",
+  "people_affected": 293,
+  "lat": 23.1958,
+  "lng": 89.414,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c55"
+  },
+  "need_type": "Shelter",
+  "location": "Murshidabad",
+  "urgency": "low",
+  "people_affected": 312,
+  "lat": 26.9222,
+  "lng": 88.1542,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c56"
+  },
+  "need_type": "Clothing",
+  "location": "Malda",
+  "urgency": "low",
+  "people_affected": 234,
+  "lat": 26.8313,
+  "lng": 89.0422,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c57"
+  },
+  "need_type": "Shelter",
+  "location": "Siliguri",
+  "urgency": "high",
+  "people_affected": 348,
+  "lat": 24.403,
+  "lng": 87.928,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c58"
+  },
+  "need_type": "Shelter",
+  "location": "Howrah",
+  "urgency": "high",
+  "people_affected": 410,
+  "lat": 22.8016,
+  "lng": 88.1233,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c59"
+  },
+  "need_type": "Water",
+  "location": "Siliguri",
+  "urgency": "high",
+  "people_affected": 486,
+  "lat": 23.1102,
+  "lng": 88.1278,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c5a"
+  },
+  "need_type": "Water",
+  "location": "Kolkata",
+  "urgency": "high",
+  "people_affected": 222,
+  "lat": 24.51,
+  "lng": 87.5894,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c5b"
+  },
+  "need_type": "Medicine",
+  "location": "Asansol",
+  "urgency": "high",
+  "people_affected": 183,
+  "lat": 26.6541,
+  "lng": 89.0979,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c5c"
+  },
+  "need_type": "Medicine",
+  "location": "Asansol",
+  "urgency": "high",
+  "people_affected": 39,
+  "lat": 23.4344,
+  "lng": 89.0744,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c5d"
+  },
+  "need_type": "Water",
+  "location": "Siliguri",
+  "urgency": "medium",
+  "people_affected": 335,
+  "lat": 22.0263,
+  "lng": 87.1981,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c5e"
+  },
+  "need_type": "Medicine",
+  "location": "Murshidabad",
+  "urgency": "low",
+  "people_affected": 392,
+  "lat": 25.0444,
+  "lng": 88.0581,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c5f"
+  },
+  "need_type": "Shelter",
+  "location": "Murshidabad",
+  "urgency": "high",
+  "people_affected": 44,
+  "lat": 23.1922,
+  "lng": 88.5974,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c60"
+  },
+  "need_type": "Food",
+  "location": "Darjeeling",
+  "urgency": "high",
+  "people_affected": 448,
+  "lat": 26.5257,
+  "lng": 88.4918,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c61"
+  },
+  "need_type": "Medicine",
+  "location": "Murshidabad",
+  "urgency": "medium",
+  "people_affected": 239,
+  "lat": 22.0078,
+  "lng": 87.882,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c62"
+  },
+  "need_type": "Medicine",
+  "location": "Malda",
+  "urgency": "low",
+  "people_affected": 362,
+  "lat": 22.4281,
+  "lng": 89.4366,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c63"
+  },
+  "need_type": "Water",
+  "location": "Kolkata",
+  "urgency": "medium",
+  "people_affected": 42,
+  "lat": 25.1784,
+  "lng": 89.4526,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c64"
+  },
+  "need_type": "Shelter",
+  "location": "Kolkata",
+  "urgency": "high",
+  "people_affected": 196,
+  "lat": 23.2056,
+  "lng": 88.6428,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c65"
+  },
+  "need_type": "Medicine",
+  "location": "Asansol",
+  "urgency": "high",
+  "people_affected": 200,
+  "lat": 24.7301,
+  "lng": 89.0338,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c66"
+  },
+  "need_type": "Water",
+  "location": "Darjeeling",
+  "urgency": "low",
+  "people_affected": 113,
+  "lat": 26.0575,
+  "lng": 87.1578,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c67"
+  },
+  "need_type": "Shelter",
+  "location": "Kolkata",
+  "urgency": "high",
+  "people_affected": 42,
+  "lat": 25.9555,
+  "lng": 89.2145,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c68"
+  },
+  "need_type": "Clothing",
+  "location": "Durgapur",
+  "urgency": "medium",
+  "people_affected": 437,
+  "lat": 24.7152,
+  "lng": 87.6333,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c69"
+  },
+  "need_type": "Shelter",
+  "location": "Murshidabad",
+  "urgency": "medium",
+  "people_affected": 461,
+  "lat": 25.9042,
+  "lng": 89.1645,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c6a"
+  },
+  "need_type": "Food",
+  "location": "Durgapur",
+  "urgency": "medium",
+  "people_affected": 243,
+  "lat": 26.4474,
+  "lng": 88.8583,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c6b"
+  },
+  "need_type": "Medicine",
+  "location": "Asansol",
+  "urgency": "medium",
+  "people_affected": 374,
+  "lat": 24.4876,
+  "lng": 89.3108,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c6c"
+  },
+  "need_type": "Food",
+  "location": "Durgapur",
+  "urgency": "low",
+  "people_affected": 237,
+  "lat": 22.3946,
+  "lng": 88.5061,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c6d"
+  },
+  "need_type": "Shelter",
+  "location": "Durgapur",
+  "urgency": "high",
+  "people_affected": 60,
+  "lat": 23.6396,
+  "lng": 87.7391,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c6e"
+  },
+  "need_type": "Medicine",
+  "location": "Malda",
+  "urgency": "low",
+  "people_affected": 247,
+  "lat": 23.7577,
+  "lng": 87.1059,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c6f"
+  },
+  "need_type": "Shelter",
+  "location": "Malda",
+  "urgency": "low",
+  "people_affected": 425,
+  "lat": 26.7395,
+  "lng": 87.1876,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c70"
+  },
+  "need_type": "Shelter",
+  "location": "Malda",
+  "urgency": "low",
+  "people_affected": 430,
+  "lat": 25.7495,
+  "lng": 87.4,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c71"
+  },
+  "need_type": "Clothing",
+  "location": "Siliguri",
+  "urgency": "low",
+  "people_affected": 420,
+  "lat": 24.1909,
+  "lng": 87.3156,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c72"
+  },
+  "need_type": "Shelter",
+  "location": "Asansol",
+  "urgency": "medium",
+  "people_affected": 310,
+  "lat": 22.1619,
+  "lng": 87.3836,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c73"
+  },
+  "need_type": "Shelter",
+  "location": "Asansol",
+  "urgency": "medium",
+  "people_affected": 410,
+  "lat": 22.3844,
+  "lng": 87.3442,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c74"
+  },
+  "need_type": "Shelter",
+  "location": "Malda",
+  "urgency": "low",
+  "people_affected": 162,
+  "lat": 23.2481,
+  "lng": 87.2836,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c75"
+  },
+  "need_type": "Water",
+  "location": "Siliguri",
+  "urgency": "low",
+  "people_affected": 218,
+  "lat": 26.5677,
+  "lng": 87.2944,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c76"
+  },
+  "need_type": "Medicine",
+  "location": "Darjeeling",
+  "urgency": "low",
+  "people_affected": 166,
+  "lat": 25.4699,
+  "lng": 89.4966,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c77"
+  },
+  "need_type": "Medicine",
+  "location": "Howrah",
+  "urgency": "high",
+  "people_affected": 251,
+  "lat": 22.8633,
+  "lng": 88.7834,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c78"
+  },
+  "need_type": "Shelter",
+  "location": "Asansol",
+  "urgency": "low",
+  "people_affected": 53,
+  "lat": 24.75,
+  "lng": 87.7259,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c79"
+  },
+  "need_type": "Medicine",
+  "location": "Siliguri",
+  "urgency": "medium",
+  "people_affected": 280,
+  "lat": 23.1212,
+  "lng": 89.4628,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c7a"
+  },
+  "need_type": "Water",
+  "location": "Murshidabad",
+  "urgency": "high",
+  "people_affected": 204,
+  "lat": 24.7701,
+  "lng": 87.9223,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c7b"
+  },
+  "need_type": "Clothing",
+  "location": "Siliguri",
+  "urgency": "high",
+  "people_affected": 53,
+  "lat": 23.5465,
+  "lng": 89.499,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c7c"
+  },
+  "need_type": "Clothing",
+  "location": "Darjeeling",
+  "urgency": "medium",
+  "people_affected": 413,
+  "lat": 24.0472,
+  "lng": 88.4373,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c7d"
+  },
+  "need_type": "Food",
+  "location": "Asansol",
+  "urgency": "medium",
+  "people_affected": 258,
+  "lat": 25.4005,
+  "lng": 87.8613,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c7e"
+  },
+  "need_type": "Medicine",
+  "location": "Siliguri",
+  "urgency": "medium",
+  "people_affected": 277,
+  "lat": 26.5536,
+  "lng": 87.1385,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c7f"
+  },
+  "need_type": "Shelter",
+  "location": "Siliguri",
+  "urgency": "high",
+  "people_affected": 102,
+  "lat": 23.6133,
+  "lng": 88.7733,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c80"
+  },
+  "need_type": "Food",
+  "location": "Durgapur",
+  "urgency": "medium",
+  "people_affected": 120,
+  "lat": 25.1753,
+  "lng": 88.3771,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c81"
+  },
+  "need_type": "Clothing",
+  "location": "Durgapur",
+  "urgency": "low",
+  "people_affected": 67,
+  "lat": 24.5129,
+  "lng": 87.4216,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c82"
+  },
+  "need_type": "Medicine",
+  "location": "Siliguri",
+  "urgency": "low",
+  "people_affected": 339,
+  "lat": 25.6032,
+  "lng": 88.5128,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c83"
+  },
+  "need_type": "Food",
+  "location": "Kolkata",
+  "urgency": "high",
+  "people_affected": 43,
+  "lat": 26.7427,
+  "lng": 88.9276,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c84"
+  },
+  "need_type": "Clothing",
+  "location": "Murshidabad",
+  "urgency": "medium",
+  "people_affected": 336,
+  "lat": 25.195,
+  "lng": 88.2451,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c85"
+  },
+  "need_type": "Shelter",
+  "location": "Durgapur",
+  "urgency": "medium",
+  "people_affected": 145,
+  "lat": 26.0234,
+  "lng": 88.7125,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c86"
+  },
+  "need_type": "Food",
+  "location": "Darjeeling",
+  "urgency": "low",
+  "people_affected": 50,
+  "lat": 22.7904,
+  "lng": 88.0391,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c87"
+  },
+  "need_type": "Shelter",
+  "location": "Murshidabad",
+  "urgency": "low",
+  "people_affected": 93,
+  "lat": 23.5629,
+  "lng": 88.7959,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c88"
+  },
+  "need_type": "Water",
+  "location": "Asansol",
+  "urgency": "high",
+  "people_affected": 409,
+  "lat": 23.8527,
+  "lng": 88.4041,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c89"
+  },
+  "need_type": "Water",
+  "location": "Murshidabad",
+  "urgency": "high",
+  "people_affected": 156,
+  "lat": 24.248,
+  "lng": 87.3522,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c8a"
+  },
+  "need_type": "Water",
+  "location": "Durgapur",
+  "urgency": "low",
+  "people_affected": 234,
+  "lat": 23.2414,
+  "lng": 89.1633,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c8b"
+  },
+  "need_type": "Clothing",
+  "location": "Asansol",
+  "urgency": "low",
+  "people_affected": 180,
+  "lat": 22.9492,
+  "lng": 87.3984,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c8c"
+  },
+  "need_type": "Water",
+  "location": "Darjeeling",
+  "urgency": "medium",
+  "people_affected": 274,
+  "lat": 22.1159,
+  "lng": 89.3631,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c8d"
+  },
+  "need_type": "Medicine",
+  "location": "Darjeeling",
+  "urgency": "high",
+  "people_affected": 318,
+  "lat": 23.7645,
+  "lng": 87.1264,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c8e"
+  },
+  "need_type": "Shelter",
+  "location": "Darjeeling",
+  "urgency": "low",
+  "people_affected": 24,
+  "lat": 26.2359,
+  "lng": 88.0773,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c8f"
+  },
+  "need_type": "Water",
+  "location": "Asansol",
+  "urgency": "medium",
+  "people_affected": 43,
+  "lat": 24.0029,
+  "lng": 88.4257,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c90"
+  },
+  "need_type": "Clothing",
+  "location": "Asansol",
+  "urgency": "medium",
+  "people_affected": 57,
+  "lat": 23.9317,
+  "lng": 88.1259,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c91"
+  },
+  "need_type": "Clothing",
+  "location": "Durgapur",
+  "urgency": "low",
+  "people_affected": 332,
+  "lat": 22.5941,
+  "lng": 89.4377,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c92"
+  },
+  "need_type": "Shelter",
+  "location": "Asansol",
+  "urgency": "low",
+  "people_affected": 500,
+  "lat": 23.828,
+  "lng": 87.3607,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c93"
+  },
+  "need_type": "Clothing",
+  "location": "Malda",
+  "urgency": "high",
+  "people_affected": 43,
+  "lat": 22.1946,
+  "lng": 88.784,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c94"
+  },
+  "need_type": "Medicine",
+  "location": "Darjeeling",
+  "urgency": "low",
+  "people_affected": 477,
+  "lat": 24.5775,
+  "lng": 87.8199,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c95"
+  },
+  "need_type": "Medicine",
+  "location": "Asansol",
+  "urgency": "medium",
+  "people_affected": 335,
+  "lat": 25.6966,
+  "lng": 87.7481,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c96"
+  },
+  "need_type": "Clothing",
+  "location": "Darjeeling",
+  "urgency": "medium",
+  "people_affected": 263,
+  "lat": 26.0787,
+  "lng": 87.9209,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c97"
+  },
+  "need_type": "Water",
+  "location": "Howrah",
+  "urgency": "low",
+  "people_affected": 177,
+  "lat": 25.9838,
+  "lng": 88.8133,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c98"
+  },
+  "need_type": "Clothing",
+  "location": "Kolkata",
+  "urgency": "medium",
+  "people_affected": 155,
+  "lat": 26.8354,
+  "lng": 88.9573,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c99"
+  },
+  "need_type": "Food",
+  "location": "Murshidabad",
+  "urgency": "low",
+  "people_affected": 265,
+  "lat": 22.8526,
+  "lng": 88.5726,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c9a"
+  },
+  "need_type": "Medicine",
+  "location": "Malda",
+  "urgency": "low",
+  "people_affected": 144,
+  "lat": 22.1579,
+  "lng": 89.3705,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c9b"
+  },
+  "need_type": "Food",
+  "location": "Murshidabad",
+  "urgency": "medium",
+  "people_affected": 180,
+  "lat": 24.0939,
+  "lng": 88.0324,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c9c"
+  },
+  "need_type": "Clothing",
+  "location": "Malda",
+  "urgency": "low",
+  "people_affected": 491,
+  "lat": 24.358,
+  "lng": 89.1209,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c9d"
+  },
+  "need_type": "Medicine",
+  "location": "Kolkata",
+  "urgency": "low",
+  "people_affected": 126,
+  "lat": 24.8044,
+  "lng": 89.4953,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c9e"
+  },
+  "need_type": "Shelter",
+  "location": "Malda",
+  "urgency": "high",
+  "people_affected": 255,
+  "lat": 26.5606,
+  "lng": 87.8558,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549c9f"
+  },
+  "need_type": "Clothing",
+  "location": "Durgapur",
+  "urgency": "medium",
+  "people_affected": 118,
+  "lat": 26.7867,
+  "lng": 87.6975,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549ca0"
+  },
+  "need_type": "Shelter",
+  "location": "Murshidabad",
+  "urgency": "medium",
+  "people_affected": 380,
+  "lat": 23.0364,
+  "lng": 88.7625,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549ca1"
+  },
+  "need_type": "Shelter",
+  "location": "Darjeeling",
+  "urgency": "low",
+  "people_affected": 498,
+  "lat": 26.6724,
+  "lng": 88.8042,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549ca2"
+  },
+  "need_type": "Clothing",
+  "location": "Howrah",
+  "urgency": "low",
+  "people_affected": 298,
+  "lat": 23.8985,
+  "lng": 89.4504,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549ca3"
+  },
+  "need_type": "Shelter",
+  "location": "Siliguri",
+  "urgency": "high",
+  "people_affected": 167,
+  "lat": 26.7766,
+  "lng": 87.1976,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549ca4"
+  },
+  "need_type": "Water",
+  "location": "Durgapur",
+  "urgency": "high",
+  "people_affected": 123,
+  "lat": 26.1398,
+  "lng": 87.6778,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549ca5"
+  },
+  "need_type": "Medicine",
+  "location": "Durgapur",
+  "urgency": "high",
+  "people_affected": 335,
+  "lat": 25.7045,
+  "lng": 87.5982,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549ca6"
+  },
+  "need_type": "Medicine",
+  "location": "Murshidabad",
+  "urgency": "high",
+  "people_affected": 71,
+  "lat": 24.0665,
+  "lng": 88.7934,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549ca7"
+  },
+  "need_type": "Food",
+  "location": "Siliguri",
+  "urgency": "low",
+  "people_affected": 495,
+  "lat": 22.7897,
+  "lng": 88.6322,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549ca8"
+  },
+  "need_type": "Medicine",
+  "location": "Darjeeling",
+  "urgency": "medium",
+  "people_affected": 184,
+  "lat": 23.4271,
+  "lng": 87.1479,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549ca9"
+  },
+  "need_type": "Clothing",
+  "location": "Murshidabad",
+  "urgency": "low",
+  "people_affected": 390,
+  "lat": 26.2517,
+  "lng": 87.0932,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549caa"
+  },
+  "need_type": "Medicine",
+  "location": "Malda",
+  "urgency": "high",
+  "people_affected": 448,
+  "lat": 23.985,
+  "lng": 88.2385,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cab"
+  },
+  "need_type": "Food",
+  "location": "Durgapur",
+  "urgency": "high",
+  "people_affected": 172,
+  "lat": 24.8398,
+  "lng": 87.2683,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cac"
+  },
+  "need_type": "Water",
+  "location": "Durgapur",
+  "urgency": "low",
+  "people_affected": 298,
+  "lat": 24.6216,
+  "lng": 89.2231,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cad"
+  },
+  "need_type": "Shelter",
+  "location": "Darjeeling",
+  "urgency": "high",
+  "people_affected": 434,
+  "lat": 22.5632,
+  "lng": 87.4062,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cae"
+  },
+  "need_type": "Medicine",
+  "location": "Durgapur",
+  "urgency": "high",
+  "people_affected": 397,
+  "lat": 23.6856,
+  "lng": 87.7376,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549caf"
+  },
+  "need_type": "Medicine",
+  "location": "Murshidabad",
+  "urgency": "low",
+  "people_affected": 458,
+  "lat": 25.1936,
+  "lng": 88.0137,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cb0"
+  },
+  "need_type": "Food",
+  "location": "Asansol",
+  "urgency": "medium",
+  "people_affected": 362,
+  "lat": 22.4769,
+  "lng": 89.4542,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cb1"
+  },
+  "need_type": "Medicine",
+  "location": "Asansol",
+  "urgency": "high",
+  "people_affected": 153,
+  "lat": 23.9179,
+  "lng": 88.1168,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cb2"
+  },
+  "need_type": "Shelter",
+  "location": "Asansol",
+  "urgency": "low",
+  "people_affected": 390,
+  "lat": 24.8644,
+  "lng": 87.6539,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cb3"
+  },
+  "need_type": "Food",
+  "location": "Murshidabad",
+  "urgency": "low",
+  "people_affected": 80,
+  "lat": 24.327,
+  "lng": 87.3993,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cb4"
+  },
+  "need_type": "Food",
+  "location": "Durgapur",
+  "urgency": "low",
+  "people_affected": 489,
+  "lat": 26.7032,
+  "lng": 87.9189,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cb5"
+  },
+  "need_type": "Medicine",
+  "location": "Murshidabad",
+  "urgency": "medium",
+  "people_affected": 98,
+  "lat": 24.2749,
+  "lng": 89.4721,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cb6"
+  },
+  "need_type": "Clothing",
+  "location": "Malda",
+  "urgency": "medium",
+  "people_affected": 407,
+  "lat": 24.6876,
+  "lng": 88.6602,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cb7"
+  },
+  "need_type": "Clothing",
+  "location": "Murshidabad",
+  "urgency": "high",
+  "people_affected": 289,
+  "lat": 24.2337,
+  "lng": 88.7594,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cb8"
+  },
+  "need_type": "Food",
+  "location": "Howrah",
+  "urgency": "low",
+  "people_affected": 482,
+  "lat": 24.5274,
+  "lng": 88.4318,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cb9"
+  },
+  "need_type": "Shelter",
+  "location": "Siliguri",
+  "urgency": "low",
+  "people_affected": 246,
+  "lat": 22.5812,
+  "lng": 87.5135,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cba"
+  },
+  "need_type": "Food",
+  "location": "Darjeeling",
+  "urgency": "low",
+  "people_affected": 248,
+  "lat": 26.0435,
+  "lng": 88.1336,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cbb"
+  },
+  "need_type": "Water",
+  "location": "Malda",
+  "urgency": "low",
+  "people_affected": 49,
+  "lat": 24.794,
+  "lng": 88.6819,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cbc"
+  },
+  "need_type": "Water",
+  "location": "Kolkata",
+  "urgency": "medium",
+  "people_affected": 438,
+  "lat": 22.0151,
+  "lng": 87.5448,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cbd"
+  },
+  "need_type": "Water",
+  "location": "Kolkata",
+  "urgency": "medium",
+  "people_affected": 378,
+  "lat": 22.3188,
+  "lng": 89.4853,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cbe"
+  },
+  "need_type": "Food",
+  "location": "Darjeeling",
+  "urgency": "medium",
+  "people_affected": 229,
+  "lat": 22.8999,
+  "lng": 87.3386,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cbf"
+  },
+  "need_type": "Shelter",
+  "location": "Malda",
+  "urgency": "medium",
+  "people_affected": 249,
+  "lat": 26.3481,
+  "lng": 89.2669,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cc0"
+  },
+  "need_type": "Clothing",
+  "location": "Howrah",
+  "urgency": "high",
+  "people_affected": 354,
+  "lat": 26.3014,
+  "lng": 87.2966,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cc1"
+  },
+  "need_type": "Clothing",
+  "location": "Malda",
+  "urgency": "high",
+  "people_affected": 392,
+  "lat": 26.8936,
+  "lng": 89.0871,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cc2"
+  },
+  "need_type": "Water",
+  "location": "Durgapur",
+  "urgency": "low",
+  "people_affected": 388,
+  "lat": 24.7222,
+  "lng": 88.3298,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cc3"
+  },
+  "need_type": "Water",
+  "location": "Murshidabad",
+  "urgency": "medium",
+  "people_affected": 99,
+  "lat": 23.3782,
+  "lng": 89.3435,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cc4"
+  },
+  "need_type": "Food",
+  "location": "Howrah",
+  "urgency": "low",
+  "people_affected": 234,
+  "lat": 25.0746,
+  "lng": 89.3406,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cc5"
+  },
+  "need_type": "Medicine",
+  "location": "Murshidabad",
+  "urgency": "high",
+  "people_affected": 71,
+  "lat": 24.9697,
+  "lng": 88.1161,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cc6"
+  },
+  "need_type": "Medicine",
+  "location": "Kolkata",
+  "urgency": "low",
+  "people_affected": 42,
+  "lat": 24.0113,
+  "lng": 87.5858,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cc7"
+  },
+  "need_type": "Medicine",
+  "location": "Kolkata",
+  "urgency": "low",
+  "people_affected": 168,
+  "lat": 23.1708,
+  "lng": 89.291,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cc8"
+  },
+  "need_type": "Clothing",
+  "location": "Asansol",
+  "urgency": "low",
+  "people_affected": 415,
+  "lat": 25.3627,
+  "lng": 87.8017,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cc9"
+  },
+  "need_type": "Clothing",
+  "location": "Siliguri",
+  "urgency": "high",
+  "people_affected": 231,
+  "lat": 23.5025,
+  "lng": 87.1524,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cca"
+  },
+  "need_type": "Water",
+  "location": "Siliguri",
+  "urgency": "low",
+  "people_affected": 273,
+  "lat": 22.2344,
+  "lng": 87.861,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549ccb"
+  },
+  "need_type": "Clothing",
+  "location": "Malda",
+  "urgency": "medium",
+  "people_affected": 376,
+  "lat": 24.0816,
+  "lng": 87.373,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549ccc"
+  },
+  "need_type": "Clothing",
+  "location": "Siliguri",
+  "urgency": "medium",
+  "people_affected": 143,
+  "lat": 26.2467,
+  "lng": 87.7518,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549ccd"
+  },
+  "need_type": "Water",
+  "location": "Siliguri",
+  "urgency": "high",
+  "people_affected": 307,
+  "lat": 24.0634,
+  "lng": 88.0413,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cce"
+  },
+  "need_type": "Water",
+  "location": "Siliguri",
+  "urgency": "high",
+  "people_affected": 150,
+  "lat": 23.0167,
+  "lng": 88.6168,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549ccf"
+  },
+  "need_type": "Food",
+  "location": "Asansol",
+  "urgency": "low",
+  "people_affected": 390,
+  "lat": 26.147,
+  "lng": 87.1288,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cd0"
+  },
+  "need_type": "Food",
+  "location": "Kolkata",
+  "urgency": "high",
+  "people_affected": 431,
+  "lat": 25.8085,
+  "lng": 88.8108,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cd1"
+  },
+  "need_type": "Water",
+  "location": "Murshidabad",
+  "urgency": "high",
+  "people_affected": 465,
+  "lat": 26.5352,
+  "lng": 87.758,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cd2"
+  },
+  "need_type": "Medicine",
+  "location": "Murshidabad",
+  "urgency": "low",
+  "people_affected": 80,
+  "lat": 25.7344,
+  "lng": 88.8858,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cd3"
+  },
+  "need_type": "Water",
+  "location": "Murshidabad",
+  "urgency": "high",
+  "people_affected": 302,
+  "lat": 23.6081,
+  "lng": 87.7076,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cd4"
+  },
+  "need_type": "Shelter",
+  "location": "Asansol",
+  "urgency": "medium",
+  "people_affected": 204,
+  "lat": 24.5641,
+  "lng": 88.2432,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cd5"
+  },
+  "need_type": "Shelter",
+  "location": "Darjeeling",
+  "urgency": "high",
+  "people_affected": 209,
+  "lat": 23.5646,
+  "lng": 87.1143,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cd6"
+  },
+  "need_type": "Food",
+  "location": "Siliguri",
+  "urgency": "medium",
+  "people_affected": 303,
+  "lat": 26.6738,
+  "lng": 88.4479,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cd7"
+  },
+  "need_type": "Medicine",
+  "location": "Durgapur",
+  "urgency": "high",
+  "people_affected": 188,
+  "lat": 23.1501,
+  "lng": 88.4245,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cd8"
+  },
+  "need_type": "Clothing",
+  "location": "Darjeeling",
+  "urgency": "low",
+  "people_affected": 370,
+  "lat": 23.6878,
+  "lng": 88.9084,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cd9"
+  },
+  "need_type": "Water",
+  "location": "Darjeeling",
+  "urgency": "high",
+  "people_affected": 395,
+  "lat": 25.9749,
+  "lng": 87.4232,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cda"
+  },
+  "need_type": "Medicine",
+  "location": "Darjeeling",
+  "urgency": "low",
+  "people_affected": 348,
+  "lat": 26.7862,
+  "lng": 88.3099,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cdb"
+  },
+  "need_type": "Food",
+  "location": "Kolkata",
+  "urgency": "medium",
+  "people_affected": 90,
+  "lat": 26.2127,
+  "lng": 87.5786,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cdc"
+  },
+  "need_type": "Food",
+  "location": "Siliguri",
+  "urgency": "high",
+  "people_affected": 278,
+  "lat": 24.28,
+  "lng": 87.1511,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cdd"
+  },
+  "need_type": "Water",
+  "location": "Darjeeling",
+  "urgency": "high",
+  "people_affected": 23,
+  "lat": 24.6611,
+  "lng": 88.0283,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cde"
+  },
+  "need_type": "Clothing",
+  "location": "Durgapur",
+  "urgency": "medium",
+  "people_affected": 28,
+  "lat": 24.5111,
+  "lng": 88.7446,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cdf"
+  },
+  "need_type": "Food",
+  "location": "Siliguri",
+  "urgency": "high",
+  "people_affected": 288,
+  "lat": 22.7445,
+  "lng": 87.4798,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549ce0"
+  },
+  "need_type": "Shelter",
+  "location": "Durgapur",
+  "urgency": "medium",
+  "people_affected": 427,
+  "lat": 23.9845,
+  "lng": 87.9326,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549ce1"
+  },
+  "need_type": "Clothing",
+  "location": "Darjeeling",
+  "urgency": "high",
+  "people_affected": 376,
+  "lat": 23.1293,
+  "lng": 88.7101,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549ce2"
+  },
+  "need_type": "Food",
+  "location": "Kolkata",
+  "urgency": "medium",
+  "people_affected": 214,
+  "lat": 23.8858,
+  "lng": 88.19,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549ce3"
+  },
+  "need_type": "Medicine",
+  "location": "Kolkata",
+  "urgency": "high",
+  "people_affected": 275,
+  "lat": 26.2266,
+  "lng": 88.6123,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549ce4"
+  },
+  "need_type": "Clothing",
+  "location": "Howrah",
+  "urgency": "high",
+  "people_affected": 137,
+  "lat": 23.0571,
+  "lng": 89.1703,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549ce5"
+  },
+  "need_type": "Shelter",
+  "location": "Darjeeling",
+  "urgency": "high",
+  "people_affected": 493,
+  "lat": 22.3717,
+  "lng": 89.314,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549ce6"
+  },
+  "need_type": "Medicine",
+  "location": "Kolkata",
+  "urgency": "medium",
+  "people_affected": 28,
+  "lat": 26.8073,
+  "lng": 88.4676,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549ce7"
+  },
+  "need_type": "Food",
+  "location": "Malda",
+  "urgency": "medium",
+  "people_affected": 103,
+  "lat": 24.8198,
+  "lng": 88.4167,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549ce8"
+  },
+  "need_type": "Water",
+  "location": "Asansol",
+  "urgency": "low",
+  "people_affected": 91,
+  "lat": 25.9525,
+  "lng": 88.7233,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549ce9"
+  },
+  "need_type": "Food",
+  "location": "Asansol",
+  "urgency": "high",
+  "people_affected": 243,
+  "lat": 23.1607,
+  "lng": 87.19,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cea"
+  },
+  "need_type": "Shelter",
+  "location": "Malda",
+  "urgency": "high",
+  "people_affected": 344,
+  "lat": 23.3666,
+  "lng": 89.4815,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549ceb"
+  },
+  "need_type": "Shelter",
+  "location": "Murshidabad",
+  "urgency": "low",
+  "people_affected": 212,
+  "lat": 24.1592,
+  "lng": 88.6992,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cec"
+  },
+  "need_type": "Food",
+  "location": "Malda",
+  "urgency": "low",
+  "people_affected": 171,
+  "lat": 25.9903,
+  "lng": 88.7828,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549ced"
+  },
+  "need_type": "Medicine",
+  "location": "Durgapur",
+  "urgency": "medium",
+  "people_affected": 384,
+  "lat": 25.9195,
+  "lng": 87.3857,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cee"
+  },
+  "need_type": "Shelter",
+  "location": "Asansol",
+  "urgency": "high",
+  "people_affected": 66,
+  "lat": 22.026,
+  "lng": 87.7707,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cef"
+  },
+  "need_type": "Food",
+  "location": "Durgapur",
+  "urgency": "high",
+  "people_affected": 64,
+  "lat": 22.937,
+  "lng": 88.1221,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cf0"
+  },
+  "need_type": "Food",
+  "location": "Malda",
+  "urgency": "high",
+  "people_affected": 65,
+  "lat": 23.7696,
+  "lng": 87.2327,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cf1"
+  },
+  "need_type": "Water",
+  "location": "Asansol",
+  "urgency": "high",
+  "people_affected": 169,
+  "lat": 24.0691,
+  "lng": 88.9479,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cf2"
+  },
+  "need_type": "Clothing",
+  "location": "Murshidabad",
+  "urgency": "low",
+  "people_affected": 106,
+  "lat": 25.4266,
+  "lng": 87.4238,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cf3"
+  },
+  "need_type": "Shelter",
+  "location": "Durgapur",
+  "urgency": "medium",
+  "people_affected": 94,
+  "lat": 22.3163,
+  "lng": 88.0867,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cf4"
+  },
+  "need_type": "Water",
+  "location": "Durgapur",
+  "urgency": "high",
+  "people_affected": 204,
+  "lat": 23.2585,
+  "lng": 87.6165,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cf5"
+  },
+  "need_type": "Clothing",
+  "location": "Darjeeling",
+  "urgency": "low",
+  "people_affected": 120,
+  "lat": 24.2893,
+  "lng": 87.3387,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cf6"
+  },
+  "need_type": "Shelter",
+  "location": "Malda",
+  "urgency": "low",
+  "people_affected": 214,
+  "lat": 26.0204,
+  "lng": 87.8239,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cf7"
+  },
+  "need_type": "Clothing",
+  "location": "Malda",
+  "urgency": "high",
+  "people_affected": 173,
+  "lat": 23.6033,
+  "lng": 89.3682,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cf8"
+  },
+  "need_type": "Shelter",
+  "location": "Darjeeling",
+  "urgency": "high",
+  "people_affected": 223,
+  "lat": 26.8436,
+  "lng": 87.7286,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cf9"
+  },
+  "need_type": "Clothing",
+  "location": "Darjeeling",
+  "urgency": "high",
+  "people_affected": 186,
+  "lat": 23.8803,
+  "lng": 89.0412,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cfa"
+  },
+  "need_type": "Food",
+  "location": "Asansol",
+  "urgency": "low",
+  "people_affected": 122,
+  "lat": 24.9611,
+  "lng": 88.3641,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cfb"
+  },
+  "need_type": "Water",
+  "location": "Kolkata",
+  "urgency": "low",
+  "people_affected": 127,
+  "lat": 24.1923,
+  "lng": 87.7283,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cfc"
+  },
+  "need_type": "Water",
+  "location": "Howrah",
+  "urgency": "low",
+  "people_affected": 275,
+  "lat": 22.6959,
+  "lng": 87.7571,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cfd"
+  },
+  "need_type": "Water",
+  "location": "Siliguri",
+  "urgency": "medium",
+  "people_affected": 57,
+  "lat": 24.2453,
+  "lng": 88.4948,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cfe"
+  },
+  "need_type": "Clothing",
+  "location": "Malda",
+  "urgency": "low",
+  "people_affected": 492,
+  "lat": 26.602,
+  "lng": 88.7293,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549cff"
+  },
+  "need_type": "Shelter",
+  "location": "Kolkata",
+  "urgency": "low",
+  "people_affected": 478,
+  "lat": 26.0615,
+  "lng": 88.4845,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d00"
+  },
+  "need_type": "Medicine",
+  "location": "Howrah",
+  "urgency": "low",
+  "people_affected": 360,
+  "lat": 23.775,
+  "lng": 88.6175,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d01"
+  },
+  "need_type": "Shelter",
+  "location": "Malda",
+  "urgency": "medium",
+  "people_affected": 74,
+  "lat": 22.0527,
+  "lng": 87.6468,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d02"
+  },
+  "need_type": "Water",
+  "location": "Murshidabad",
+  "urgency": "medium",
+  "people_affected": 220,
+  "lat": 24.3153,
+  "lng": 88.6989,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d03"
+  },
+  "need_type": "Shelter",
+  "location": "Siliguri",
+  "urgency": "high",
+  "people_affected": 267,
+  "lat": 22.5227,
+  "lng": 88.0399,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d04"
+  },
+  "need_type": "Medicine",
+  "location": "Howrah",
+  "urgency": "medium",
+  "people_affected": 179,
+  "lat": 23.7153,
+  "lng": 88.9607,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d05"
+  },
+  "need_type": "Shelter",
+  "location": "Darjeeling",
+  "urgency": "medium",
+  "people_affected": 69,
+  "lat": 24.1908,
+  "lng": 88.7419,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d06"
+  },
+  "need_type": "Shelter",
+  "location": "Howrah",
+  "urgency": "high",
+  "people_affected": 434,
+  "lat": 25.5539,
+  "lng": 87.0565,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d07"
+  },
+  "need_type": "Medicine",
+  "location": "Howrah",
+  "urgency": "low",
+  "people_affected": 144,
+  "lat": 24.58,
+  "lng": 88.3798,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d08"
+  },
+  "need_type": "Water",
+  "location": "Malda",
+  "urgency": "high",
+  "people_affected": 428,
+  "lat": 24.0252,
+  "lng": 87.4611,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d09"
+  },
+  "need_type": "Water",
+  "location": "Malda",
+  "urgency": "high",
+  "people_affected": 397,
+  "lat": 25.0705,
+  "lng": 87.4933,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d0a"
+  },
+  "need_type": "Water",
+  "location": "Malda",
+  "urgency": "high",
+  "people_affected": 380,
+  "lat": 23.074,
+  "lng": 87.6959,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d0b"
+  },
+  "need_type": "Clothing",
+  "location": "Howrah",
+  "urgency": "high",
+  "people_affected": 429,
+  "lat": 26.3599,
+  "lng": 87.4674,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d0c"
+  },
+  "need_type": "Water",
+  "location": "Murshidabad",
+  "urgency": "high",
+  "people_affected": 154,
+  "lat": 25.3535,
+  "lng": 88.2237,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d0d"
+  },
+  "need_type": "Clothing",
+  "location": "Asansol",
+  "urgency": "medium",
+  "people_affected": 332,
+  "lat": 23.9627,
+  "lng": 87.2856,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d0e"
+  },
+  "need_type": "Clothing",
+  "location": "Darjeeling",
+  "urgency": "high",
+  "people_affected": 436,
+  "lat": 25.3679,
+  "lng": 89.0015,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d0f"
+  },
+  "need_type": "Medicine",
+  "location": "Howrah",
+  "urgency": "medium",
+  "people_affected": 80,
+  "lat": 23.1929,
+  "lng": 87.2924,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d10"
+  },
+  "need_type": "Clothing",
+  "location": "Siliguri",
+  "urgency": "medium",
+  "people_affected": 234,
+  "lat": 24.9821,
+  "lng": 88.437,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d11"
+  },
+  "need_type": "Water",
+  "location": "Siliguri",
+  "urgency": "low",
+  "people_affected": 295,
+  "lat": 25.4672,
+  "lng": 88.6132,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d12"
+  },
+  "need_type": "Water",
+  "location": "Siliguri",
+  "urgency": "medium",
+  "people_affected": 91,
+  "lat": 22.9355,
+  "lng": 89.105,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d13"
+  },
+  "need_type": "Shelter",
+  "location": "Kolkata",
+  "urgency": "high",
+  "people_affected": 268,
+  "lat": 22.6827,
+  "lng": 89.038,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d14"
+  },
+  "need_type": "Water",
+  "location": "Darjeeling",
+  "urgency": "low",
+  "people_affected": 271,
+  "lat": 24.0782,
+  "lng": 89.0997,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d15"
+  },
+  "need_type": "Food",
+  "location": "Siliguri",
+  "urgency": "low",
+  "people_affected": 35,
+  "lat": 25.9794,
+  "lng": 87.5513,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d16"
+  },
+  "need_type": "Medicine",
+  "location": "Durgapur",
+  "urgency": "low",
+  "people_affected": 167,
+  "lat": 22.841,
+  "lng": 88.1433,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d17"
+  },
+  "need_type": "Clothing",
+  "location": "Darjeeling",
+  "urgency": "low",
+  "people_affected": 77,
+  "lat": 24.8636,
+  "lng": 87.6697,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d18"
+  },
+  "need_type": "Clothing",
+  "location": "Asansol",
+  "urgency": "high",
+  "people_affected": 409,
+  "lat": 25.5949,
+  "lng": 88.3659,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d19"
+  },
+  "need_type": "Medicine",
+  "location": "Howrah",
+  "urgency": "medium",
+  "people_affected": 467,
+  "lat": 26.9966,
+  "lng": 88.1243,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d1a"
+  },
+  "need_type": "Water",
+  "location": "Howrah",
+  "urgency": "high",
+  "people_affected": 417,
+  "lat": 26.0594,
+  "lng": 87.5247,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d1b"
+  },
+  "need_type": "Clothing",
+  "location": "Asansol",
+  "urgency": "low",
+  "people_affected": 239,
+  "lat": 22.8299,
+  "lng": 87.3481,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d1c"
+  },
+  "need_type": "Food",
+  "location": "Murshidabad",
+  "urgency": "low",
+  "people_affected": 199,
+  "lat": 24.6614,
+  "lng": 88.4921,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d1d"
+  },
+  "need_type": "Shelter",
+  "location": "Asansol",
+  "urgency": "medium",
+  "people_affected": 313,
+  "lat": 23.3367,
+  "lng": 89.145,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d1e"
+  },
+  "need_type": "Medicine",
+  "location": "Howrah",
+  "urgency": "medium",
+  "people_affected": 490,
+  "lat": 22.2964,
+  "lng": 87.6933,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d1f"
+  },
+  "need_type": "Medicine",
+  "location": "Siliguri",
+  "urgency": "high",
+  "people_affected": 94,
+  "lat": 25.557,
+  "lng": 89.0712,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d20"
+  },
+  "need_type": "Water",
+  "location": "Malda",
+  "urgency": "high",
+  "people_affected": 315,
+  "lat": 25.162,
+  "lng": 88.5695,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d21"
+  },
+  "need_type": "Food",
+  "location": "Darjeeling",
+  "urgency": "low",
+  "people_affected": 426,
+  "lat": 26.4006,
+  "lng": 87.2327,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d22"
+  },
+  "need_type": "Shelter",
+  "location": "Durgapur",
+  "urgency": "medium",
+  "people_affected": 269,
+  "lat": 23.6364,
+  "lng": 87.0062,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d23"
+  },
+  "need_type": "Water",
+  "location": "Howrah",
+  "urgency": "low",
+  "people_affected": 360,
+  "lat": 25.4864,
+  "lng": 89.1253,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d24"
+  },
+  "need_type": "Medicine",
+  "location": "Malda",
+  "urgency": "medium",
+  "people_affected": 442,
+  "lat": 23.0593,
+  "lng": 87.6713,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d25"
+  },
+  "need_type": "Clothing",
+  "location": "Asansol",
+  "urgency": "low",
+  "people_affected": 86,
+  "lat": 24.8307,
+  "lng": 88.2133,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d26"
+  },
+  "need_type": "Food",
+  "location": "Kolkata",
+  "urgency": "high",
+  "people_affected": 340,
+  "lat": 25.9194,
+  "lng": 88.149,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d27"
+  },
+  "need_type": "Water",
+  "location": "Siliguri",
+  "urgency": "medium",
+  "people_affected": 20,
+  "lat": 26.9592,
+  "lng": 88.0695,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d28"
+  },
+  "need_type": "Shelter",
+  "location": "Siliguri",
+  "urgency": "high",
+  "people_affected": 467,
+  "lat": 26.6636,
+  "lng": 87.685,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d29"
+  },
+  "need_type": "Shelter",
+  "location": "Asansol",
+  "urgency": "high",
+  "people_affected": 210,
+  "lat": 25.3225,
+  "lng": 88.6223,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d2a"
+  },
+  "need_type": "Shelter",
+  "location": "Malda",
+  "urgency": "low",
+  "people_affected": 378,
+  "lat": 25.7762,
+  "lng": 88.0731,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d2b"
+  },
+  "need_type": "Food",
+  "location": "Howrah",
+  "urgency": "high",
+  "people_affected": 264,
+  "lat": 22.3897,
+  "lng": 88.4842,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d2c"
+  },
+  "need_type": "Food",
+  "location": "Darjeeling",
+  "urgency": "high",
+  "people_affected": 376,
+  "lat": 23.7179,
+  "lng": 87.3015,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d2d"
+  },
+  "need_type": "Water",
+  "location": "Siliguri",
+  "urgency": "high",
+  "people_affected": 137,
+  "lat": 23.9153,
+  "lng": 88.8269,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d2e"
+  },
+  "need_type": "Shelter",
+  "location": "Howrah",
+  "urgency": "medium",
+  "people_affected": 471,
+  "lat": 23.4963,
+  "lng": 87.9568,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d2f"
+  },
+  "need_type": "Food",
+  "location": "Siliguri",
+  "urgency": "low",
+  "people_affected": 308,
+  "lat": 22.0424,
+  "lng": 88.6251,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d30"
+  },
+  "need_type": "Medicine",
+  "location": "Asansol",
+  "urgency": "low",
+  "people_affected": 403,
+  "lat": 22.7569,
+  "lng": 88.0293,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d31"
+  },
+  "need_type": "Medicine",
+  "location": "Darjeeling",
+  "urgency": "high",
+  "people_affected": 479,
+  "lat": 22.5023,
+  "lng": 88.8811,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d32"
+  },
+  "need_type": "Shelter",
+  "location": "Malda",
+  "urgency": "medium",
+  "people_affected": 181,
+  "lat": 25.9554,
+  "lng": 87.6195,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d33"
+  },
+  "need_type": "Medicine",
+  "location": "Howrah",
+  "urgency": "low",
+  "people_affected": 327,
+  "lat": 25,
+  "lng": 88.519,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d34"
+  },
+  "need_type": "Shelter",
+  "location": "Kolkata",
+  "urgency": "high",
+  "people_affected": 285,
+  "lat": 25.0346,
+  "lng": 87.4716,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d35"
+  },
+  "need_type": "Food",
+  "location": "Durgapur",
+  "urgency": "high",
+  "people_affected": 273,
+  "lat": 23.9294,
+  "lng": 87.6027,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d36"
+  },
+  "need_type": "Clothing",
+  "location": "Howrah",
+  "urgency": "high",
+  "people_affected": 204,
+  "lat": 26.6696,
+  "lng": 87.33,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d37"
+  },
+  "need_type": "Shelter",
+  "location": "Malda",
+  "urgency": "low",
+  "people_affected": 369,
+  "lat": 22.8639,
+  "lng": 88.1775,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d38"
+  },
+  "need_type": "Clothing",
+  "location": "Kolkata",
+  "urgency": "high",
+  "people_affected": 27,
+  "lat": 23.3109,
+  "lng": 87.0996,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d39"
+  },
+  "need_type": "Clothing",
+  "location": "Malda",
+  "urgency": "medium",
+  "people_affected": 341,
+  "lat": 25.5631,
+  "lng": 88.9178,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d3a"
+  },
+  "need_type": "Food",
+  "location": "Malda",
+  "urgency": "low",
+  "people_affected": 294,
+  "lat": 24.6883,
+  "lng": 87.3817,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d3b"
+  },
+  "need_type": "Food",
+  "location": "Durgapur",
+  "urgency": "low",
+  "people_affected": 491,
+  "lat": 23.016,
+  "lng": 89.0202,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d3c"
+  },
+  "need_type": "Water",
+  "location": "Asansol",
+  "urgency": "low",
+  "people_affected": 344,
+  "lat": 25.8161,
+  "lng": 88.6246,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d3d"
+  },
+  "need_type": "Shelter",
+  "location": "Howrah",
+  "urgency": "low",
+  "people_affected": 243,
+  "lat": 25.6498,
+  "lng": 89.1162,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d3e"
+  },
+  "need_type": "Food",
+  "location": "Murshidabad",
+  "urgency": "medium",
+  "people_affected": 79,
+  "lat": 24.2669,
+  "lng": 88.5221,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d3f"
+  },
+  "need_type": "Food",
+  "location": "Siliguri",
+  "urgency": "high",
+  "people_affected": 382,
+  "lat": 22.6861,
+  "lng": 87.0284,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d40"
+  },
+  "need_type": "Clothing",
+  "location": "Asansol",
+  "urgency": "low",
+  "people_affected": 420,
+  "lat": 26.1125,
+  "lng": 87.6481,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d41"
+  },
+  "need_type": "Shelter",
+  "location": "Siliguri",
+  "urgency": "low",
+  "people_affected": 473,
+  "lat": 22.5903,
+  "lng": 89.2497,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d42"
+  },
+  "need_type": "Shelter",
+  "location": "Malda",
+  "urgency": "low",
+  "people_affected": 52,
+  "lat": 23.3147,
+  "lng": 89.4376,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d43"
+  },
+  "need_type": "Water",
+  "location": "Howrah",
+  "urgency": "medium",
+  "people_affected": 281,
+  "lat": 23.8006,
+  "lng": 88.249,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d44"
+  },
+  "need_type": "Shelter",
+  "location": "Siliguri",
+  "urgency": "high",
+  "people_affected": 150,
+  "lat": 25.8666,
+  "lng": 89.2357,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d45"
+  },
+  "need_type": "Medicine",
+  "location": "Howrah",
+  "urgency": "low",
+  "people_affected": 280,
+  "lat": 22.0128,
+  "lng": 89.1467,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d46"
+  },
+  "need_type": "Food",
+  "location": "Murshidabad",
+  "urgency": "medium",
+  "people_affected": 206,
+  "lat": 23.9149,
+  "lng": 87.3752,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d47"
+  },
+  "need_type": "Medicine",
+  "location": "Malda",
+  "urgency": "medium",
+  "people_affected": 147,
+  "lat": 24.0813,
+  "lng": 88.8007,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d48"
+  },
+  "need_type": "Clothing",
+  "location": "Howrah",
+  "urgency": "medium",
+  "people_affected": 81,
+  "lat": 24.5102,
+  "lng": 89.2549,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d49"
+  },
+  "need_type": "Clothing",
+  "location": "Murshidabad",
+  "urgency": "high",
+  "people_affected": 225,
+  "lat": 22.3446,
+  "lng": 88.1627,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d4a"
+  },
+  "need_type": "Shelter",
+  "location": "Durgapur",
+  "urgency": "high",
+  "people_affected": 303,
+  "lat": 24.2837,
+  "lng": 87.9223,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d4b"
+  },
+  "need_type": "Clothing",
+  "location": "Durgapur",
+  "urgency": "high",
+  "people_affected": 257,
+  "lat": 23.8414,
+  "lng": 89.4296,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d4c"
+  },
+  "need_type": "Medicine",
+  "location": "Murshidabad",
+  "urgency": "high",
+  "people_affected": 497,
+  "lat": 24.0502,
+  "lng": 87.5825,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d4d"
+  },
+  "need_type": "Shelter",
+  "location": "Kolkata",
+  "urgency": "high",
+  "people_affected": 408,
+  "lat": 25.2865,
+  "lng": 89.1225,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d4e"
+  },
+  "need_type": "Food",
+  "location": "Durgapur",
+  "urgency": "high",
+  "people_affected": 291,
+  "lat": 26.9156,
+  "lng": 88.0495,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d4f"
+  },
+  "need_type": "Shelter",
+  "location": "Siliguri",
+  "urgency": "high",
+  "people_affected": 42,
+  "lat": 26.6064,
+  "lng": 89.2432,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d50"
+  },
+  "need_type": "Shelter",
+  "location": "Malda",
+  "urgency": "medium",
+  "people_affected": 402,
+  "lat": 22.4245,
+  "lng": 87.2389,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d51"
+  },
+  "need_type": "Food",
+  "location": "Malda",
+  "urgency": "low",
+  "people_affected": 310,
+  "lat": 22.3114,
+  "lng": 88.6561,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d52"
+  },
+  "need_type": "Shelter",
+  "location": "Murshidabad",
+  "urgency": "medium",
+  "people_affected": 455,
+  "lat": 23.575,
+  "lng": 89.002,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d53"
+  },
+  "need_type": "Shelter",
+  "location": "Asansol",
+  "urgency": "medium",
+  "people_affected": 159,
+  "lat": 23.1681,
+  "lng": 89.3589,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d54"
+  },
+  "need_type": "Medicine",
+  "location": "Howrah",
+  "urgency": "high",
+  "people_affected": 104,
+  "lat": 24.2478,
+  "lng": 87.7851,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d55"
+  },
+  "need_type": "Medicine",
+  "location": "Asansol",
+  "urgency": "medium",
+  "people_affected": 177,
+  "lat": 24.3167,
+  "lng": 89.1312,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d56"
+  },
+  "need_type": "Shelter",
+  "location": "Siliguri",
+  "urgency": "low",
+  "people_affected": 376,
+  "lat": 25.0165,
+  "lng": 87.5376,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d57"
+  },
+  "need_type": "Food",
+  "location": "Siliguri",
+  "urgency": "low",
+  "people_affected": 147,
+  "lat": 26.842,
+  "lng": 87.9906,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d58"
+  },
+  "need_type": "Shelter",
+  "location": "Durgapur",
+  "urgency": "high",
+  "people_affected": 35,
+  "lat": 26.7605,
+  "lng": 89.1365,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d59"
+  },
+  "need_type": "Food",
+  "location": "Murshidabad",
+  "urgency": "medium",
+  "people_affected": 72,
+  "lat": 26.0195,
+  "lng": 87.3495,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d5a"
+  },
+  "need_type": "Medicine",
+  "location": "Kolkata",
+  "urgency": "high",
+  "people_affected": 121,
+  "lat": 26.1184,
+  "lng": 87.9306,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d5b"
+  },
+  "need_type": "Clothing",
+  "location": "Howrah",
+  "urgency": "low",
+  "people_affected": 152,
+  "lat": 26.5871,
+  "lng": 87.1875,
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d5c"
+  },
+  "need_type": "Water",
+  "location": "Murshidabad",
+  "urgency": "high",
+  "people_affected": 67,
+  "lat": 26.5254,
+  "lng": 89.0734,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d5d"
+  },
+  "need_type": "Food",
+  "location": "Howrah",
+  "urgency": "medium",
+  "people_affected": 45,
+  "lat": 22.8399,
+  "lng": 88.4347,
+  "status": "resolved"
+},
+{
+  "_id": {
+    "$oid": "69e1bf3005b8d78ca9549d5e"
+  },
+  "need_type": "Water",
+  "location": "Malda",
+  "urgency": "high",
+  "people_affected": 215,
+  "lat": 25.4161,
+  "lng": 87.432,
+  "status": "active"
+}]
