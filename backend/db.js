@@ -2,7 +2,7 @@
 const mongoose = require('mongoose');
 
 const connectDB = async () => {
-  const uri = process.env.MONGO_URI || 'mongodb://localhost:27017/smart_resource_allocation';
+  const uri = process.env.DB_URI || 'mongodb://localhost:27017/smart_resource_allocation';
 
   try {
     const conn = await mongoose.connect(uri, {
