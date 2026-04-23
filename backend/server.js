@@ -4,7 +4,7 @@ require('dotenv').config();
 const express = require('express');
 const cors = require('cors');
 const bodyParser = require('body-parser');
-const connectDB = require('./config/db');
+const connectDB = require('./db');
 
 // Route imports
 const reportRoutes = require('./routes/reportRoutes');
