@@ -1,7 +1,7 @@
 // routes/reportRoutes.js
 const express = require('express');
 const router = express.Router();
-const { uploadReport } = require('../controllers/reportController');
+const { uploadReport } = require('./reportController');
 
 /**
  * POST /upload-report

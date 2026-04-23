@@ -4,7 +4,7 @@ const router = express.Router();
 const {
   getCommunityNeeds,
   getAssignments,
-} = require('../controllers/dashboardController');
+} = require('./dashboardController');
 
 /**
  * GET /community-needs
