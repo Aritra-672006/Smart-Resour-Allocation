@@ -1,6 +1,6 @@
 // controllers/dashboardController.js
-const Report = require('../models/Report');
-const Assignment = require('../models/Assignment');
+const Report = require('./Report');
+const Assignment = require('./Assignment');
 
 // ─── Geo helpers ──────────────────────────────────────────────────────────────
 
