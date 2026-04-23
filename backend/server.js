@@ -7,9 +7,9 @@ const bodyParser = require('body-parser');
 const connectDB = require('./db');
 
 // Route imports
-const reportRoutes = require('./routes/reportRoutes');
-const volunteerRoutes = require('./routes/volunteerRoutes');
-const dashboardRoutes = require('./routes/dashboardRoutes');
+const reportRoutes = require('./reportRoutes');
+const volunteerRoutes = require('./volunteerRoutes');
+const dashboardRoutes = require('./dashboardRoutes');
 
 // Initialize app
 const app = express();
