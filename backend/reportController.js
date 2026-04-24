@@ -1,8 +1,8 @@
 // controllers/reportController.js
-const Report = require('../models/Report');
-const Volunteer = require('../models/Volunteer');
-const Assignment = require('../models/Assignment');
-const { callAIAgent } = require('../services/mlService');
+const Report = require('./Report');
+const Volunteer = require('./Volunteer');
+const Assignment = require('./Assignment');
+const { callAIAgent } = require('./mlService');
 
 // ─── Helpers ──────────────────────────────────────────────────────────────────
 

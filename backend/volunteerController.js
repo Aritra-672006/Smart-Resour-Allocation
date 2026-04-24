@@ -1,5 +1,5 @@
 // controllers/volunteerController.js
-const Volunteer = require('../models/Volunteer');
+const Volunteer = require('./Volunteer');
 
 // ─── Helpers ──────────────────────────────────────────────────────────────────
 
