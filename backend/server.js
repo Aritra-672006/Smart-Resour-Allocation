@@ -10,6 +10,8 @@ const connectDB = require('./db');
 const reportRoutes = require('./reportRoutes');
 const volunteerRoutes = require('./volunteerRoutes');
 const dashboardRoutes = require('./dashboardRoutes');
+const authRoutes = require('./authRoutes');
+
 
 // Initialize app
 const app = express();
@@ -43,6 +45,7 @@ app.get('/health', (_req, res) => {
 app.use('/', reportRoutes);
 app.use('/', volunteerRoutes);
 app.use('/', dashboardRoutes);
+app.use('/', authRoutes);
 
 // ─── 404 Handler ─────────────────────────────────────────────────────────────
 app.use((_req, res) => {
