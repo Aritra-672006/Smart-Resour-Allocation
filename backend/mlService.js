@@ -52,26 +52,49 @@ mlClient.interceptors.response.use(
  * @returns {Promise<Object>} Full AI agent response payload
  */
 const callAIAgent = async (data) => {
-  const { text, volunteers } = data;
+  const { ngo_name, location, report_text, people_affected } = data;
 
-  if (!text || typeof text !== 'string') {
-    const err = new Error('callAIAgent: `text` field is required and must be a string.');
+  // ✅ Validate input
+  if (!report_text || typeof report_text !== 'string') {
+    const err = new Error('callAIAgent: `report_text` is required.');
     err.errorType = 'ml_invalid_input';
     throw err;
   }
 
   console.log(
-    `[mlService] Calling /ai-agent | text length: ${text.length} | volunteers: ${volunteers?.length ?? 0}`
+    `[mlService] Calling /ai-agent | location: ${location} | people: ${people_affected}`
   );
 
+  // ✅ Send correct payload to ML
   const response = await mlClient.post('/ai-agent', {
-    text,
-    volunteers: volunteers || [],
+    ngo_name,
+    location,
+    report_text,
+    people_affected,
   });
 
   console.log('[mlService] /ai-agent responded with status:', response.status);
 
-  return response.data;
-};
+  const ml = response.data?.final_result;
 
-module.exports = { callAIAgent };
+  // ❌ If ML fails or returns nothing
+  if (!ml) {
+    return {
+      need_analysis: [],
+      decision_trace: null,
+    };
+  }
+
+  // ✅ Transform ML → backend format
+  const need_analysis = (ml.needed_resources || []).map((resource) => ({
+    need_type: resource,
+    urgency: ml.urgency,
+    location: location,
+    people_affected: people_affected,
+  }));
+
+  return {
+    need_analysis,
+    decision_trace: ml,
+  };
+};

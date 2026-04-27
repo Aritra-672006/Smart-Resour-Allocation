@@ -137,9 +137,12 @@ const uploadReport = async (req, res, next) => {
     let aiResult = null;
     try {
       aiResult = await callAIAgent({
-        text: report_text.trim(),
-        volunteers: sortedVolunteers,
+          ngo_name: ngo_name.trim(),
+          location: location.trim(),
+          report_text: report_text.trim(),
+          people_affected: Number(people_affected),
       });
+
     } catch (mlError) {
       console.error('[reportController] ML service error:', mlError.message);
       // We do NOT abort the request — we store a degraded ai_result
