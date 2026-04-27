@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 // Base URL — change this to your backend's URL
-const BASE_URL = "https://smart-resour-allocation.onrender.com"
+const BASE_URL = https://smart-resour-allocation-nn4i.onrender.com"
 const api = axios.create({
   baseURL: BASE_URL,
   timeout: 15000,
