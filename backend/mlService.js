@@ -98,3 +98,4 @@ const callAIAgent = async (data) => {
     decision_trace: ml,
   };
 };
+module.exports = { callAIAgent };
