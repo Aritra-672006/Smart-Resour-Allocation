@@ -1,8 +1,7 @@
 import axios from 'axios'
 
 // Base URL — change this to your backend's URL
-const BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000'
-
+const BASE_URL = "https://smart-resour-allocation.onrender.com"
 const api = axios.create({
   baseURL: BASE_URL,
   timeout: 15000,
