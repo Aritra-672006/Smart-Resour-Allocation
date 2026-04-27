@@ -42,10 +42,10 @@ app.get('/health', (_req, res) => {
 });
 
 // ─── Routes ───────────────────────────────────────────────────────────────────
-app.use('/', reportRoutes);
-app.use('/', volunteerRoutes);
-app.use('/', dashboardRoutes);
-app.use('/', authRoutes);
+app.use('/api/auth', authRoutes);
+app.use('/api/reports', reportRoutes);
+app.use('/api/volunteers', volunteerRoutes);
+app.use('/api/dashboard', dashboardRoutes);
 
 // ─── 404 Handler ─────────────────────────────────────────────────────────────
 app.use((_req, res) => {
