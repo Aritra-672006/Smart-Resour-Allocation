@@ -53,8 +53,11 @@ const registerVolunteer = async (req, res, next) => {
       phone: sanitisedPhone,
       skills: Array.isArray(skills) ? skills : [],
       location: location.trim(),
-      availability: availability.trim(),
+      availability: Array.isArray(availability)
+      ? availability
+      : [availability.toString().trim()],
     });
+ 
 
     return res.status(201).json({
       message: 'Volunteer registered successfully',
