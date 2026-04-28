@@ -1,7 +1,8 @@
 // services/mlService.js
 const axios = require('axios');
 
-const ML_BASE_URL = process.env.ML_BASE_URL || 'https://smart-resour-allocation.onrender.com/';
+const ML_BASE_URL =
+  process.env.ML_BASE_URL || 'https://smart-resource-ml.onrender.com';
 const ML_TIMEOUT_MS = parseInt(process.env.ML_TIMEOUT_MS, 10) || 30000;
 
 /**
