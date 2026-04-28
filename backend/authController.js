@@ -1,3 +1,67 @@
+// const User = require('./User');
+
+// // SIGNUP
+// const signup = async (req, res) => {
+//   try {
+//     const { name, email, password, phone } = req.body;
+
+//     // check if user exists
+//     const existingUser = await User.findOne({ email });
+//     if (existingUser) {
+//       return res.status(400).json({ message: 'User already exists' });
+//     }
+
+//     // create user
+//     const user = await User.create({
+//       name,
+//       email,
+//       password,
+//       phone
+//     });
+
+//     return res.status(201).json({
+//       message: 'Signup successful',
+//       user
+//     });
+
+//   } catch (err) {
+//     return res.status(500).json({
+//       message: err.message
+//     });
+//   }
+// };
+
+// // LOGIN
+// const login = async (req, res) => {
+//   try {
+//     const { email, password } = req.body;
+
+//     const user = await User.findOne({ email });
+
+//     if (!user || user.password !== password) {
+//       return res.status(401).json({
+//         message: 'Invalid credentials'
+//       });
+//     }
+
+//     return res.status(200).json({
+//       message: 'Login successful',
+//       user
+//     });
+
+//   } catch (err) {
+//     return res.status(500).json({
+//       message: err.message
+//     });
+//   }
+// };
+
+
+// module.exports = { signup, login };
+
+
+
+
 const User = require('./User');
 
 // SIGNUP
@@ -5,8 +69,10 @@ const signup = async (req, res) => {
   try {
     const { name, email, password, phone } = req.body;
 
+    const emailClean = email.trim().toLowerCase();
+
     // check if user exists
-    const existingUser = await User.findOne({ email });
+    const existingUser = await User.findOne({ email: emailClean });
     if (existingUser) {
       return res.status(400).json({ message: 'User already exists' });
     }
@@ -14,7 +80,7 @@ const signup = async (req, res) => {
     // create user
     const user = await User.create({
       name,
-      email,
+      email: emailClean,
       password,
       phone
     });
@@ -31,16 +97,24 @@ const signup = async (req, res) => {
   }
 };
 
+
 // LOGIN
 const login = async (req, res) => {
   try {
-    const { email, password } = req.body;
+    const emailClean = req.body.email.trim().toLowerCase();
+    const password = req.body.password;
 
-    const user = await User.findOne({ email });
+    const user = await User.findOne({ email: emailClean });
 
-    if (!user || user.password !== password) {
+    if (!user) {
       return res.status(401).json({
-        message: 'Invalid credentials'
+        message: 'Invalid credentials (email not found)'
+      });
+    }
+
+    if (user.password !== password) {
+      return res.status(401).json({
+        message: 'Invalid credentials (wrong password)'
       });
     }
 
@@ -55,6 +129,5 @@ const login = async (req, res) => {
     });
   }
 };
-
 
 module.exports = { signup, login };
