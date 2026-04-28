@@ -77,7 +77,7 @@ app.use((err, _req, res, _next) => {
 app.listen(PORT, () => {
   console.log(`\n🚀  Smart Resource Allocation API running on port ${PORT}`);
   console.log(`🌍  Environment : ${process.env.NODE_ENV || 'development'}`);
-  console.log(`🤖  ML Service  : ${process.env.ML_URL || 'http://127.0.0.1:8000'}\n`);
+  console.log(`🤖  ML Service  : ${process.env.ML_BASE_URL || 'http://127.0.0.1:8000'}\n`);
 });
 
 module.exports = app;
