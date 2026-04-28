@@ -11,6 +11,9 @@ const reportRoutes = require('./reportRoutes');
 const volunteerRoutes = require('./volunteerRoutes');
 const dashboardRoutes = require('./dashboardRoutes');
 const authRoutes = require('./authRoutes');
+const reportRoutes = require('./reportRoutes');
+console.log("reportRoutes:", reportRoutes);
+
 
 
 // Initialize app
@@ -40,7 +43,7 @@ app.get('/health', (_req, res) => {
     timestamp: new Date().toISOString(),
   });
 });
-
+console.log("Loading reportRoutes...");
 // ─── Routes ───────────────────────────────────────────────────────────────────
 app.use('/', reportRoutes);
 app.use('/', volunteerRoutes);
