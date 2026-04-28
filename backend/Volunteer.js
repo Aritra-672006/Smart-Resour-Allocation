@@ -37,6 +37,21 @@ const VolunteerSchema = new mongoose.Schema(
       type: Number,
       default: 0,
     },
+    email: {
+        type: String,
+        required: [true, 'Email is required'],
+        trim: true,
+        lowercase: true,
+        unique: true,
+        match: [/^\S+@\S+\.\S+$/, 'Please use a valid email address'],
+      },
+
+      password: {
+       type: String,
+       required: [true, 'Password is required'],
+       minlength: 6,
+      },
+
   },
   {
     versionKey: false,

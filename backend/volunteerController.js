@@ -3,17 +3,23 @@ const Volunteer = require('./Volunteer');
 
 // ─── Helpers ──────────────────────────────────────────────────────────────────
 
-const validateVolunteerPayload = ({ name, phone, skills, location, availability }) => {
+const validateVolunteerPayload = ({ name, phone, email, password, skills, location, availability }) => {
   if (!name || !name.toString().trim()) return 'name is required.';
   if (!phone || !phone.toString().trim()) return 'phone is required.';
   if (!/^\d{7,15}$/.test(phone.toString().trim()))
     return 'phone must contain only digits and be 7–15 characters long.';
+  if (!email || !email.toString().trim()) return 'email is required.';
+  if (!password || password.length < 6) return 'password must be at least 6 characters.';
   if (!location || !location.toString().trim()) return 'location is required.';
-  if (!availability || !availability.toString().trim()) return 'availability is required.';
+  if (
+    !availability ||
+    (Array.isArray(availability) && availability.length === 0)
+  ) return 'availability is required.';
   if (skills !== undefined && !Array.isArray(skills))
     return 'skills must be an array of strings.';
   return null;
 };
+
 
 // ─── Controller ───────────────────────────────────────────────────────────────
 
@@ -25,7 +31,7 @@ const validateVolunteerPayload = ({ name, phone, skills, location, availability 
  */
 const registerVolunteer = async (req, res, next) => {
   try {
-    const { name, phone, skills, location, availability } = req.body;
+    const { name, phone, email, password, skills, location, availability } = req.body;
 
     // ── 1. Validate ────────────────────────────────────────────────────────────
     const validationError = validateVolunteerPayload(req.body);
@@ -49,14 +55,17 @@ const registerVolunteer = async (req, res, next) => {
 
     // ── 3. Create ─────────────────────────────────────────────────────────────
     await Volunteer.create({
-      name: name.trim(),
-      phone: sanitisedPhone,
-      skills: Array.isArray(skills) ? skills : [],
-      location: location.trim(),
-      availability: Array.isArray(availability)
-      ? availability
-      : [availability.toString().trim()],
-    });
+  name: name.trim(),
+  phone: sanitisedPhone,
+  email: email.trim().toLowerCase(),   // ✅ ADD
+  password: password,                  // ✅ ADD
+  skills: Array.isArray(skills) ? skills : [],
+  location: location.trim(),
+  availability: Array.isArray(availability)
+    ? availability
+    : [availability.toString().trim()],
+});
+
  
 
     return res.status(201).json({
