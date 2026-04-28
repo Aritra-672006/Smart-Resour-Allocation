@@ -27,10 +27,11 @@ const VolunteerSchema = new mongoose.Schema(
       trim: true,
     },
     availability: {
-      type: String,
-      required: [true, 'Availability is required'],
-      trim: true,
+        type: [String],   // ✅ FIX
+        required: [true, 'Availability is required'],
+        default: [],
     },
+
     // Optional score field populated after ML ranking
     score: {
       type: Number,
